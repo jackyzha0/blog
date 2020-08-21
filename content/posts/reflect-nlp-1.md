@@ -3,7 +3,7 @@ title: "reflect: NLP model explained pt. 1"
 date: 2020-05-10T08:51:56-07:00
 ---
 
-How do we tell that this is a “valid” intent?
+![An image of the reflect block page](https://miro.medium.com/max/1400/1*yjCs2Mmcve8wNI1pdfXelw.png)*How do we tell that this is a “valid” intent?*
 
 A (not so) brief exploration of how we tackle classifying intents in reflect. Part 1 will touch on defining the problem we’re trying to solve, the data we have, and how we pre-processed it. Part 2 will focus on the architecture of the model we built, how well it does, and thoughts on improving it for the future.
 
@@ -202,3 +202,5 @@ preprocess("I don’t know if I’m being productive! :(")
 ## What’s next?
 
 Now that we have something ready to feed into our neural network, let’s dive into how the actual model itself works!
+
+[Read Part 2](/posts/reflect-nlp-2)

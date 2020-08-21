@@ -2,6 +2,7 @@
   --light: #fbfffe;
   --lightgray: #f0f0f0;
   --gray: #dddddd;
+  --p: #606060;
   --dark: #284b63;
   --secondary: #84a59d;
 }
@@ -73,4 +74,14 @@ footer {
 
 table {
   width: 100%;
+}
+
+p img {
+  width: 100%;
+  border-radius: 5px;
+  padding: 2em 0;
+}
+
+strong {
+  color: #000;
 }
