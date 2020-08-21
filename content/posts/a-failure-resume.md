@@ -3,13 +3,13 @@ title: "A Failure Resume"
 date: 2020-08-21T14:02:48-07:00
 ---
 
-Imposter Syndrome has been hitting really hard lately. Sometimes, it makes me feel like I don't deserve a lot of my current accomplishments and that I need to work even harder. I came across the concept of a **failure resume**[^1] a while ago, a list of things that didn't exactly go according to plan, and what you've learned from it. 
+Imposter Syndrome has been hitting really hard lately. Sometimes, it makes me feel like I don't deserve a lot of my current accomplishments and that I need to work even harder just to feel like I deserve what I have right now. I came across the concept of a **failure resume**[^1] a while ago, a list of things that didn't exactly go according to plan, and the lessons learned.
 
-The more I think about it, the more I realize taht a failure resume is a great way to document all the spectacular ways you've worked hard towards your own goals and accomplishments and validates them in a sense.
+The more I think about it, the more I realize that a failure resume is a great way to document all the spectacular ways you've worked hard towards your own goals and accomplishments, validating them in a sense.
 
 I've recently been inspired by both Kate Huang[^2] and Joice Tang's[^3] failure resumes and decided to make my own.
 
-What I wanted to try with this failure resume is, rather than focusing on the individual failures themselves, note what I learned about each of them and how each one was necessary. It serves as a powerful reminder of how much I've struggled to get to where I am and why I deserve to be here. And more importantly, it serves as a place to reflect and learn from your past mistakes and be less scared of failure in the future.
+What I wanted to try with this failure resume is, rather than focusing on the individual failures themselves, note what I learned about each of them and how each one was necessary. Hopefully, it'll serve as a powerful reminder to myself of how much I've struggled to get to where I am and why I deserve to be here. And more importantly, it serves as a place to reflect and learn from your past mistakes and be less scared of failure in the future.
 
 Now with all that stuff out of the way, here's the juicy list you've been waiting for:
 
