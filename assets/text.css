@@ -18,7 +18,7 @@ a {
     margin: 0;
 }
 
-p, tbody {
+p, tbody, li {
     font-family: Roboto;
     color: var(--p);
     line-height: 1.5em;
