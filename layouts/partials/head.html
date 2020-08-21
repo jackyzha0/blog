@@ -1,0 +1,31 @@
+<head>
+    <link rel="preconnect" href="https://www.googletagmanager.com">
+    <link crossorigin rel="preconnect" href="https://www.google-analytics.com">
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-148413215-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-148413215-1');
+    </script>
+    
+    <!-- Meta tags -->
+    <meta charset="UTF-8">
+    <meta name="description"
+        content="jacky zhao personal portfolio - software developer trying to build solutions to the world’s problems ">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Roboto&family=Roboto+Mono:wght@700&display=swap" rel="stylesheet">
+
+    <!-- CSS Stylesheets and Fonts -->
+    {{with resources.Get "style.css" | minify}}
+    <style>{{ .Content | safeCSS }}</style>
+    {{end}}
+</head>

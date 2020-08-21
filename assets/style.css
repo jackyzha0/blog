@@ -1,0 +1,67 @@
+:root {
+  --light: #fbfffe;
+  --lightgray: #f0f0f0;
+  --gray: #dddddd;
+  --dark: #284b63;
+  --secondary: #84a59d;
+}
+
+a {
+  text-decoration: none;
+  color: var(--dark);
+  transition: all 0.2s ease;
+}
+
+.hover {
+  color: var(--dark);
+  text-decoration: none;
+  display: inline-block;
+  position: relative;
+  opacity: 0.6;
+  z-index: 1;
+}
+
+.hover::after {
+  transition: 300ms;
+  height: 20px;
+  content: "";
+  position: absolute;
+  background-color: var(--secondary);
+  opacity: 0.5;
+  z-index: -1;
+  width: 0%;
+  left: 15px;
+  bottom: 0px;
+}
+
+header {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+header:hover .hover {
+  opacity: 1.0;
+}
+
+header:hover .hover::after {
+  width: 100%;
+}
+
+body {
+    margin: 0;
+    background-color: var(--light);
+}
+
+h1, h2, h3, h4, nav {
+    font-family: Roboto Mono;
+}
+
+p {
+    font-family: Roboto;
+}
+
+#contentWrapper {
+    margin: 25px 25vw;
+}
