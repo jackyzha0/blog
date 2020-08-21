@@ -1,5 +1,7 @@
+{{ define "main" }}
 <main id="main">
-    <div>
-        <h1 id="title"><a href="{{ "/" | relURL }}">uh oh</a></h1>
-    </div>
+    <h1>uh oh.</h1>
+    <p>That wasn't supposed to happen. Either this page doesn't exist or something broke.</p>
+    <a href="{{ "/" | relURL }}">↩ Go home</a>
 </main>
+{{ end }}
