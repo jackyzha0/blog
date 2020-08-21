@@ -1,5 +1,5 @@
 ---
-title: "Life of a High School Software Developer at Hootsuite"
+title: "Life of a High School SWE Intern at Hootsuite"
 date: 2019-08-30T08:51:56-07:00
 ---
 
