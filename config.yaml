@@ -1,7 +1,6 @@
 baseURL: https://blog.jzhao.xyz
 languageCode: en-us
 title: jacky zhao | blog
-footnoteReturnLinkContents: ↩
 pygmentsUseClasses: true
 
 params:
