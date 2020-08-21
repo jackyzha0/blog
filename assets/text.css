@@ -1,0 +1,34 @@
+h1, h2, h3, h4, a, .time, ol {
+    font-family: Roboto Mono;
+}
+
+a {
+  text-decoration: none;
+  color: var(--dark);
+  transition: all 0.2s ease;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+p {
+    font-family: Roboto;
+    opacity: 0.65;
+}
+
+h2 {
+    opacity: 0.85;
+}
+
+h3 {
+    opacity: 0.75;
+}
+
+blockquote {
+    margin-left: 1em;
+    border-left: 3px solid var(--secondary);
+    padding-left: 1em;
+}

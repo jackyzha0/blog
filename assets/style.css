@@ -6,12 +6,6 @@
   --secondary: #84a59d;
 }
 
-a {
-  text-decoration: none;
-  color: var(--dark);
-  transition: all 0.2s ease;
-}
-
 .hover {
   color: var(--dark);
   text-decoration: none;
@@ -54,14 +48,6 @@ body {
     background-color: var(--light);
 }
 
-h1, h2, h3, h4, a, .time {
-    font-family: Roboto Mono;
-}
-
-p {
-    font-family: Roboto;
-}
-
 .desc {
     flex: 1;
 }
@@ -77,12 +63,6 @@ footer {
 
 #contentWrapper {
     margin: 25px 25vw;
-}
-
-ul {
-    list-style: none;
-    padding: 0;
-    margin: 0;
 }
 
 @media all and (max-width: 900px) {

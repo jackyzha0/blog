@@ -4,6 +4,8 @@
         <h1>{{ .Title }}</h1>
         <p>written {{ .Date.Format "January 2, 2006" }} &mdash; {{ .WordCount }} words</p>
     </div>
-    {{- .Content -}}
+    <div id="mainText">
+        {{- .Content -}}
+    </div>
 </article>
 {{ end }}
