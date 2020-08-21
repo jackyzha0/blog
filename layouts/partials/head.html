@@ -25,7 +25,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Roboto&family=Roboto+Mono:wght@700&display=swap" rel="stylesheet">
 
     <!-- CSS Stylesheets and Fonts -->
-    {{ range slice "style.css" "text.css" }}
+    {{ range slice "style.css" "text.css" "syntax.css" }}
         {{ with resources.Get . | minify }}
         <style>{{ .Content | safeCSS }}</style>
         {{ end }}

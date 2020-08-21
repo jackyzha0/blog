@@ -70,3 +70,7 @@ footer {
         margin: 25px 5vw;
     }
 }
+
+table {
+  width: 100%;
+}

@@ -1,4 +1,4 @@
-h1, h2, h3, h4, a, .time, ol {
+h1, h2, h3, h4, a, .time, ol, thead {
     font-family: Roboto Mono;
 }
 
@@ -14,7 +14,7 @@ ul {
     margin: 0;
 }
 
-p {
+p, tbody {
     font-family: Roboto;
     opacity: 0.65;
 }
@@ -31,4 +31,18 @@ blockquote {
     margin-left: 1em;
     border-left: 3px solid var(--secondary);
     padding-left: 1em;
+}
+
+pre {
+    font-family: Roboto Mono;
+    padding: 0.75em;
+    border-radius: 3px;
+}
+
+table {
+    padding: 1.5em;
+}
+
+td, th {
+    padding: 0.1em 0.5em;
 }
