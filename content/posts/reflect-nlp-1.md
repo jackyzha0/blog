@@ -19,7 +19,7 @@ A lot of it comes down to the fact that natural language processing (NLP) is a v
 
 We can’t just parse for keywords and just allow a user in if we see the word “work” because that word can mean different things in different contexts. For example, “I’m not doing any work right now” would have otherwise been classified as valid. Thus, we can employ the help of a machine learning algorithm to help us capture this deeper meaning.
 
-Specifically, the form of machine learning we will be using is called **supervised learning, **in which we give an algorithm a bunch of labelled data, tell it what it’s doing wrong, and let it ‘learn.’ Through doing this, hopefully the algorithm will be able to generalize and make predictions on unseen data too.
+Specifically, the form of machine learning we will be using is called **supervised learning,** in which we give an algorithm a bunch of labelled data, tell it what it’s doing wrong, and let it ‘learn.’ Through doing this, hopefully the algorithm will be able to generalize and make predictions on unseen data too.
 
 ## The data
 
@@ -163,7 +163,7 @@ expandContractions("i dont know if im being productive")
 
 ### Remove stop words
 
-The English language also has a bunch of these things called **stop words — **words that do not contribute anything major to the sentence in terms of semantic understanding (usually in the context of natural language tasks such as this). A few examples of them are ‘I’, ‘me’, ‘my’, ‘by’, and ‘on’. By removing them, we once again remove unneeded complexity from the model.
+The English language also has a bunch of these things called **stop words** — words that do not contribute anything major to the sentence in terms of semantic understanding (usually in the context of natural language tasks such as this). A few examples of them are ‘I’, ‘me’, ‘my’, ‘by’, and ‘on’. By removing them, we once again remove unneeded complexity from the model.
 
 ```python
 rmStopwords("i do not know if i am being productive") 

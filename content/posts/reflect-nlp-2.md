@@ -135,7 +135,7 @@ Theres a grand total of 150,000 different trainable knobs and parameters in our 
 
 So, how does the data we got earlier play a role in helping our machine learning model learn and improve?
 
-The first component is the **loss function. **This component tells the neural network how ‘correct’ its prediction was. In this model, we will use something called [binary cross entropy](https://towardsdatascience.com/understanding-binary-cross-entropy-log-loss-a-visual-explanation-a3ac6025181a), which is basically a fancy word for log-based error. If the true label is 1, we can then show what the log-loss would be for some given prediction probability.
+The first component is the **loss function.** This component tells the neural network how ‘correct’ its prediction was. In this model, we will use something called [binary cross entropy](https://towardsdatascience.com/understanding-binary-cross-entropy-log-loss-a-visual-explanation-a3ac6025181a), which is basically a fancy word for log-based error. If the true label is 1, we can then show what the log-loss would be for some given prediction probability.
 
 ![](https://cdn-images-1.medium.com/max/2000/0*8rd4ho_3Y6zrtra-.png)
 
@@ -143,7 +143,7 @@ Next, we need to pick an **optimizer**. This component tells the neural network 
 
 ![RMSProp(black) vs a bunch of other optimizers. credit: Vitaly Bushaev](https://cdn-images-1.medium.com/max/2000/0*HZM5XJ-quu276w39.gif)*RMSProp(black) vs a bunch of other optimizers. credit: Vitaly Bushaev*
 
-One important hyperparameter we choose is the **train-test split.** In data science and machine learning, we typically withhold part of our data and set it aside as a **test set**. The rest of the data will be considered the **training set. **When training the model, we never feed it the test set. As a result, we can use the test set as a metric to see how well it would perform on real-world, unseen data. In our training, we used a train-test split of 20%.
+One important hyperparameter we choose is the **train-test split.** In data science and machine learning, we typically withhold part of our data and set it aside as a **test set**. The rest of the data will be considered the **training set.** When training the model, we never feed it the test set. As a result, we can use the test set as a metric to see how well it would perform on real-world, unseen data. In our training, we used a train-test split of 20%.
 
 Another important hyperparameter that we can choose is the **mini-batch size**. The mini-batch size determines how many training examples we feed the machine learning model before updating its parameters. A smaller mini-batch means that we get more frequent updates to the parameters, but it also runs the risk of having outliers that may cause a bad gradient update. A large mini-batch means that we get a more accurate gradient update but it also takes longer. A similar concept is *sample size* in statistics. We could pick a larger sample to get a better estimate of the overall population, but it is often more expensive to do so. A smaller sample might contain outliers and thus be less robust of an estimate of the overall population, but it very easy to do. So, there’s this tradeoff between accuracy and speed. We found that a good balance between these was a mini-batch size of 128.
 
