@@ -1,5 +1,5 @@
 ---
-title: "reflect: NLP model explained pt. 1"
+title: "reflect: NLP model explained pt.1"
 date: 2020-05-10T08:51:56-07:00
 ---
 

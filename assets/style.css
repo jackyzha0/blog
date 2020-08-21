@@ -66,6 +66,10 @@ footer {
     text-align: center;
 }
 
+.meta {
+  margin-left: 2em !important;
+}
+
 #contentWrapper {
     margin: 25px 25vw;
 }
@@ -73,6 +77,12 @@ footer {
 @media all and (max-width: 900px) {
     #contentWrapper {
         margin: 25px 5vw;
+    }
+}
+
+@media all and (max-width: 600px) {
+    nav {
+      display: none;
     }
 }
 
