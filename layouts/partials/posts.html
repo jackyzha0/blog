@@ -1,0 +1,16 @@
+<h1>posts</h1>
+<ul id="posts">
+    {{- range site.RegularPages -}}
+    <li class="singlePost">
+        <div class="desc">
+            <p class="time">{{ .Date.Format .Site.Params.dateFormat }}&nbsp;//&nbsp;</p>
+            <p><a class="postLink" href="{{ .Permalink }}">
+                    {{- .Title -}}
+                </a></p>
+        </div>
+        <p class="meta">
+            {{ .ReadingTime }} minute read
+        </p>
+    </li>
+    {{- end -}}
+</ul>

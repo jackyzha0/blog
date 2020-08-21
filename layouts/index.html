@@ -1,15 +1,3 @@
-<!DOCTYPE html>
-<html>
-{{- partial "head.html" . -}}
-
-<body>
-    <div id="contentWrapper">
-    {{- partial "header.html" . -}}
-    <main>
-        {{- partial "post/list.html" . -}}
-    </main>
-    {{- partial "footer.html" . -}}
-    </div>
-</body>
-
-</html>
+{{ define "main" }}
+{{- partial "posts.html" . -}}
+{{ end }}

@@ -1,11 +1,12 @@
-baseURL: "https://blog.jzhao.xyz"
-languageCode: "en-us"
-title: "jacky zhao | blog"
-footnoteReturnLinkContents: "↩"
+baseURL: https://blog.jzhao.xyz
+languageCode: en-us
+title: jacky zhao | blog
+footnoteReturnLinkContents: ↩
 
 params:
-    headline: "jzhao.xyz"
-    github: "https://github.com/jackyzha0"
-    twitter: "https://twitter.com/_jzhao"
-    email: "j.zhao2k19@gmail.com"
-    author: "jacky"
+    headline: jzhao.xyz
+    github: https://github.com/jackyzha0
+    twitter: https://twitter.com/_jzhao
+    email: j.zhao2k19@gmail.com
+    author: jacky
+    dateFormat: 2006-01-02
