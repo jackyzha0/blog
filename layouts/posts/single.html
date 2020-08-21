@@ -2,7 +2,7 @@
 <article>
     <div id="postTitle" class="desc">
         <h1>{{ .Title }}</h1>
-        <p>written {{ .Date.Format "January 2, 2006" }} &mdash; {{ .WordCount }} words</p>
+        <p>written {{ .Date.Format "January 2, 2006" }} // {{ .WordCount }} words</p>
     </div>
     <div id="mainText">
         {{- .Content -}}

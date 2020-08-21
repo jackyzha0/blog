@@ -36,6 +36,10 @@ header, .singlePost, #postTitle {
     justify-content: space-between;
 }
 
+#postTitle h1 {
+  margin-right: 4em;
+}
+
 header:hover .hover {
   opacity: 1.0;
 }
@@ -76,10 +80,10 @@ table {
   width: 100%;
 }
 
-p img {
+img {
   width: 100%;
-  border-radius: 5px;
-  padding: 2em 0;
+  border-radius: 3px;
+  margin: 2em 0;
 }
 
 strong {

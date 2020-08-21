@@ -2,7 +2,7 @@
     margin: 0.1em auto;
 }
 
-h1, h2, h3, h4, a, .time, ol, thead {
+h1, h2, h3, h4, a, .time, ol, ul, thead {
     font-family: Roboto Mono;
 }
 
@@ -12,7 +12,7 @@ a {
   transition: all 0.2s ease;
 }
 
-ul {
+#posts {
     list-style: none;
     padding: 0;
     margin: 0;
@@ -21,6 +21,7 @@ ul {
 p, tbody {
     font-family: Roboto;
     color: var(--p);
+    line-height: 1.5em;
 }
 
 h2 {
