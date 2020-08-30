@@ -93,7 +93,12 @@ table {
 img {
   width: 100%;
   border-radius: 3px;
-  margin: 2em 0;
+  margin: 1em 0;
+}
+
+p > em {
+  display: block;
+  transform: translateY(-1em);
 }
 
 strong {
