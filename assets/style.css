@@ -30,10 +30,10 @@
 }
 
 header, .singlePost, #postTitle {
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    justify-content: space-between;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
 }
 
 #postTitle h1 {
@@ -49,21 +49,21 @@ header:hover .hover::after {
 }
 
 body {
-    margin: 0;
-    background-color: var(--light);
+  margin: 0;
+  background-color: var(--light);
 }
 
 .desc {
-    flex: 1;
+  flex: 1;
 }
 
 .desc * {
-    display: inline-block;
+  display: inline-block;
 }
 
 footer {
-    margin-top: 4em;
-    text-align: center;
+  margin-top: 4em;
+  text-align: center;
 }
 
 .meta {
@@ -71,19 +71,19 @@ footer {
 }
 
 #contentWrapper {
-    margin: 25px 25vw;
+  margin: 25px 25vw;
 }
 
 @media all and (max-width: 1200px) {
-    #contentWrapper {
-        margin: 25px 5vw;
-    }
+  #contentWrapper {
+    margin: 25px 5vw;
+  }
 }
 
 @media all and (max-width: 600px) {
-    nav {
-      display: none;
-    }
+  nav {
+    display: none;
+  }
 }
 
 table {
@@ -96,11 +96,15 @@ img {
   margin: 1em 0;
 }
 
-p > img + em {
+p>img+em {
   display: block;
   transform: translateY(-1em);
 }
 
 strong {
   color: #000;
+}
+
+sup {
+  line-height: 0
 }
