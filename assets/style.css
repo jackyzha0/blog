@@ -74,7 +74,7 @@ footer {
     margin: 25px 25vw;
 }
 
-@media all and (max-width: 900px) {
+@media all and (max-width: 1200px) {
     #contentWrapper {
         margin: 25px 5vw;
     }
@@ -96,7 +96,7 @@ img {
   margin: 1em 0;
 }
 
-p > em {
+p > img + em {
   display: block;
   transform: translateY(-1em);
 }
