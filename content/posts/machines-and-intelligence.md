@@ -17,7 +17,7 @@ However, with the rise of Moore's Law and the insane amount of compute and data 
 This paper will examine factors that differentiate GOFAI and NFAI systems, such as their ability to adapt to changes in input, and the explainability of their outputs and internal representations. It will also examine current work in integrating the two approaches to Artificial Intelligence to create an artificial general intelligence.
 
 # GOFAI Systems
-Since the inception of the term GOFAI, the basic idea has remained unchanged: thinking as internal symbol manipulation. Within these GOFAI systems, symbols are representative of aspects of our world. These symbols are manipulated in a systematic and logical matter, performing a series of deterministic steps that results in another sequence of symbols (Haugeland, 1996).
+Since the inception of the term GOFAI, the basic idea has remained unchanged: thinking as internal symbol manipulation. Within these GOFAI systems, symbols are representative of aspects of our world. These symbols are manipulated in a systematic and logical matter, performing a series of deterministic steps that results in another sequence of symbols[^1].
 
 A very common example of GOFAI systems are expert systems, which are computer systems that emulate the decision making ability of a human expert[^3]. They solve problems via decision-tree reasoning, figuring out whether to perform certain actions based off of if-then rules.
 
