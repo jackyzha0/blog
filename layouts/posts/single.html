@@ -4,6 +4,10 @@
         <h1>{{ .Title }}</h1>
         <p>written {{ .Date.Format "January 2, 2006" }} // {{ .WordCount }} words</p>
     </div>
+    <aside>
+        <h3>Table of Contents</h3>
+        {{ .TableOfContents }}
+    </aside>
     <div id="mainText">
         {{- .Content -}}
     </div>

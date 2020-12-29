@@ -75,6 +75,6 @@ And finally, thanks to Hootsuite for showing this little owl the world!
 ![](https://cdn-images-1.medium.com/max/9312/1*RwlvNswSg95J253WHq2zbQ.jpeg)
 
 Hootsuite has changed my attitude on how I see the world and it’s beautifully captured in one quote from Waterson —
-> ### “It’s a magical world, Hobbes, ol’ buddy ... let’s go exploring!”
+> “It’s a magical world, Hobbes, ol’ buddy ... let’s go exploring!”
 
 ![](https://cdn-images-1.medium.com/max/2000/0*aq1RW9_3MViZBV0b.png)

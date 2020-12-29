@@ -29,24 +29,24 @@ Table of Contents
       * [Deploying to the Cloud](#deploying-to-the-cloud)
    * [Closing](#closing)
 
-# 👋 Introduction
-## What is Docker?
+## 👋 Introduction
+### What is Docker?
 Docker is a tool that makes it really easy to package applications into self-sustaining 'containers'.
 
-## What are containers?
+### What are containers?
 Containers, as their name suggests, contain things. In the case of Docker, these contain all the parts the application needs to run, everything from libraries and dependencies to the actual source code.
 
-## Why containers?
+### Why containers?
 Containerization means that everything to do with your application stays inside the container. You shouldn't need to worry about how stuff on your machine (e.g. which version of Python you have) affects how your program runs. As a side benefit, this means that Docker containers are dependency-free. Never worry about "oh, it works on my machine" ever again! After a Docker image is created, all of its contents are frozen so it should work exactly the same on your computer as it does for someone else (assuming you both have Docker).
 
-## Why Docker?
+### Why Docker?
 Docker makes it super easy to work with these containers and, by proxy, you can get all the cool benefits of containers easily too! It also allows you to programmatically define a container through code, meaning you can collaborate and work on Docker containers just as you would with a regular piece of code through version control like `git`.
 
-# 🔨 Installing Docker
+## 🔨 Installing Docker
 More detailed instructions can be found [here](https://docs.docker.com/get-docker/).
 
-# ⚙️ Parts of Docker
-## Docker Containers
+## ⚙️ Parts of Docker
+### Docker Containers
 I think the intro covered this pretty well so I'll repeat it again here.
 
 > Containers, as their name suggests, contain things. In the case of Docker, these contain all the parts the application needs to run, everything from libraries and dependencies to the actual source code.
@@ -55,7 +55,7 @@ This means that 'containerized' applications don't need to rely on a system to h
 
 You can think of Docker containers like a fully self-contained and running version of your application.
 
-## Docker Image
+### Docker Image
 You can think of Docker images like a sort of 'template' that describes to Docker how to create a container from scratch. You can build these images by providing instructions on how to build them in the form of layers.
 
 ### Layers
@@ -63,7 +63,7 @@ Docker images, like ogres (or cakes if you're a boring person), have many layers
 
 > One of the coolest parts of Docker is that these layers get cached between builds if nothing has changed. That means that if you rebuild an image and only changed the last layer, it'll only need to rebuild the last layer rather than rebuilding the whole image, making for some really fast iteration times.
 
-## Dockerfile
+### Dockerfile
 The Dockerfile are the actual specific instructions for how to create the actual image or 'template'. The Dockerfile starts off by defining a 'base-layer', which serve as the basis for your actual image. Some common base layers are `ubuntu` (which contains a minimal install of the actual Ubuntu operating system) and `python` (which contains everything needed to run a basic Python app). 
 
 I won't dive into too much details about each command you can use as these will be described more in-depth within the examples. You can find detailed documentation on the commands you can use in a Dockerfile here: https://docs.docker.com/engine/reference/builder/
@@ -121,15 +121,15 @@ You can get a list of currently running containers by doing `docker ps`, which w
 
 You can use the command `docker exec -it <container name> /bin/bash` to get a bash shell in the container, allowing you to run commands from within the container as if it was a full-fledged machine. If you know specifically what command you want to execute, you can use `docker exec -it <container name> <command>` to execute whatever command you specify in the container.
 
-# 📝 Docker Examples
+## 📝 Docker Examples
 1. [Basic Python app with dependencies](https://github.com/jackyzha0/docker-explained/tree/master/1-basic-python/)
 3. [Node.js and Express app](https://github.com/jackyzha0/docker-explained/tree/master/2-basic-node)
 4. [Multi-stage Go app](https://github.com/jackyzha0/docker-explained/tree/master/3-multi-stage-go)
 
-# 📚 Further reading
+## 📚 Further reading
 These topics will not be talked about within this repository, but I've added a few resources I've found helpful in my understanding of each of them.
 
-## Docker Compose
+### Docker Compose
 Docker Compose is a tool that lets you start multiple Docker containers together and configure how they interact.
 * https://docs.docker.com/compose/
 * https://github.com/docker/compose
