@@ -52,4 +52,4 @@ Slowly but surely, I'm learning to value my own time and to set it aside to just
 
 **Acknowledgements**
 
-A big thank yu to [Anson](https://twitter.com/ansonyuu) for always being a sounding board for fresh dough (half-baked ideas would be too generous of a description for these).
+A big thank yu to [Anson](https://twitter.com/ansonyuu) for always being a sounding board for fresh dough (half-baked ideas would be too generous of a description for these). Thanks to [Anne](https://www.linkedin.com/in/anneguo3/) and [Joice](https://twitter.com/y1huen) for also giving feedback on rough drafts :))
