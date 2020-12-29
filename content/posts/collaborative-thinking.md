@@ -3,25 +3,25 @@ title: "Collaborative Thinking"
 date: 2020-12-28T13:44:28-08:00
 ---
 
-Recently, I've been reading **21 Lessons for the 21st Century** written by none other than Yuval Noah Harari and have been really enjoying the book. It's approach to weaving together insights from a vast number of disciplines to create something novel is extremely refreshing. I just read a section on learning, the knowledge illusion, and collaborative thinking and wanted to share some thoughts I've had that have been bouncing around and marinating for a few days.
+Recently, I've been reading **21 Lessons for the 21st Century** written by none other than Yuval Noah Harari and have been really enjoying the book. Its approach to weaving together insights from a vast number of disciplines to create something novel is extremely refreshing. I just read a section on learning, the knowledge illusion, and collaborative thinking and wanted to share some thoughts that have been bouncing around and marinating for a few days.
 
 # Group think
 > Humans rarely think for themselves. Rather, we think in groups. Just as it takes a tribe to raise a child, it also takes a tribe to invent a tool, solve a conflict, or cure a disease. No individual knows everything it takes to build a cathedral, an atom bomb, or an aircraft. 
 
-It is no secret that the key to the rise of *Homo Sapiens* over all other kinds of animals and the anthroprocene wasn't the rationality of any individual human, but rather our unparalleled ability to think and share knowledge in large groups. This concept has arisen in the form of *specialization of labour*.
+It is no secret that the key to the rise of *Homo Sapiens* and the anthroprocene wasn't due the rationality of any individual human, but rather our collective unparalleled ability to think and share knowledge in large groups. This concept has arisen in the form of *specialization of labour*.
 
-As a society, we consistently rely on the knowledge of others in order to live our own comfortable lives. I may not know how to grow my very own russet potatoes, but a farmer in Alberta might. Similarly, a plumber in Massachussets may not know how to built their own personal website, but I might. Through being able to supplement each others knowledge of the world, our *collective* knowledge is much greater.
+As a society, we consistently rely on the knowledge of others in order to live our own comfortable lives. I may not know how to grow my very own russet potatoes, but a farmer in Alberta might. Similarly, a plumber in Massachussets may not know how to build a personal website, but I might. Through being able to supplement each others knowledge of the world, our *collective* knowledge is much greater.
 
 ![Left: Collective Human Knowledge. Right: My subset of knowledge](/img/knowledge.png)*Left: Collective Knowledge of the group. Right: My subset of knowledge*
 
-I like to think about collective knowledge as a big blob. Each individual contributes a unique *subset* of knowledge. We get the entirety of human knowledge by taking the *union of the knowledge* of all the individuals in the group. Of course, as these groups of individuals grow ever larger due to globalization, each individual may choose to specialize in a narrower subset of knowledge as generations go on in order to reduce redundancy. Why know how to build your own car when you can buy it yourself? The adoption of globally accepted currencies have made this easier than ever.
+I like to think about collective knowledge as a big blob. Each individual contributes a unique *subset* of knowledge. We get the entirety of human knowledge by taking the *union of the knowledge* of all the individuals in the group. Of course, as these groups of individuals grow ever larger due to globalization, each individual may choose to specialize in a narrower subset of knowledge as generations go on in order to reduce redundancy. Why know how to build your own car when you can buy it yourself? The adoption of globally accepted currencies has made this easier than ever.
 
 ### A zipper example
 Humans also have this 'knowledge illusion' where we think we know a lot, even though individually we know very little. We treat the knowledge of the human collective as if it were our own, even subconsciously.
 
 ![A crude illustration of a jacket zipper](/img/zipper.png)*A crude illustration of a jacket zipper*
 
-An example Harari used was the sweater zipper. If I were to ask you if you knew how a zipper works, the vast majority of you would exclaim "yes, of course!" Yet, if asked to describe in *detail* every single step, most would fail to do so. Even in something that seems to basic and intuitive seems to elude and explicit explanation. We have begun to stand on the shoulders of giants but refuse to acknowledge their presence.
+An example Harari used was the sweater zipper. If I were to ask you if you knew how a zipper works, the vast majority of you would exclaim "yes, of course!" Yet, if asked to describe in *detail* every single step, most would fail to do so. Even in something that seems to basic and intuitive seems to elude an explicit explanation. We have begun to stand on the shoulders of giants yet refuse to acknowledge their presence.
 
 Although we may have increased the overall area of our collective knowledge, the surface area of each individual has also shrunken, turning from balanced and broad to narrow and unwieldy.
 
