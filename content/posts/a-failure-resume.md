@@ -26,7 +26,7 @@ Now with all that stuff out of the way, here's the juicy list you've been waitin
 * Rejected from a lot of grants and incubator programs for reflect
   * We took the shotgun approach by applying to as many grants as possible but ended up realizing that were just applying to grants for the sake of applying, rather than having a good reason for why. It was a really good catalyst to reflect (pun intended) on what we wanted reflect to be and what direction to take it in the future.
 
-* Rejected by DeepMind.
+* Rejected by DeepMind
   * This position rejection hurt more than most &mdash; even if it was swift and abrupt. DeepMind is a company that has played a huge part in shaping my interest of the intersection of machine learning, ethics, and philosophy, so you can imagine that the rejection email was not a pleasant sight to see in my inbox. Nevertheless, this is just more incentive to keep working hard in this field and hopefully get a different result next year.
 
 ## 2019

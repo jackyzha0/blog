@@ -81,8 +81,12 @@ footer {
 }
 
 @media all and (max-width: 600px) {
-  nav {
+  header>nav {
     display: none;
+  }
+  #postTitle {
+    flex-direction: column;
+    align-items: flex-start;
   }
 }
 
