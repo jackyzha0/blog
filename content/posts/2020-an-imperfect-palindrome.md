@@ -24,44 +24,45 @@ To be completely frank, I had no clue what that really entailed and jumped into 
 ### A poorly played game of Tetris
 Due to a combination of poor planning, luck, and FOMO, I made the poor decision to take on an internship at Hootsuite along with the open-source fellowship at MLH, all the while trying to juggle my mental sanity and health. Spoiler alert: it was a bad idea.
 
-was not good in terms of mental health
-had to develop healthier versions of dealing with stress and anxiety
+My calendar ended up looking a lot like a poorly played game of Tetris as I tried to stack hackathon onto after-work social onto tech talk. Unfortunately in this version of Tetris, there was no line clearing when I fully packed a week. You don't need more than two braincells to realize that a schedule like that just isn't sustainable. I was often working upwards of 80+ hours a week and I felt like death reincarnate. I think the lowest point of the summer was sitting on the couch after working an 8 hour day at Hootsuite followed by another 6 hours on fellowship things and realizing that I only had oatmeal in the morning. "I should learn to play the ukelele."
 
-learned lots
+In order to get through the summer, I had to develop healthier coping methods to deal with the stress, anxiety, and general lack-of-time-to-do-anything that came along with it. Though I, by no means, have claimed to have solved any of these things, I've found a few things really helpful in maintaining some semblance of mental sanity:
+
+1. **Time Blocking** -- COVID had eliminated any physical boundaries I already had; no 15 minute transit to separate work and home, no physical walk required to go from home to school. As a result, everything started to meld together. If it only takes me 3 clicks to go from my club meeting to my work tickets, I can just work a little longer, right? I found that time blocking really let me regain a little bit of control back in my life. I could tell myself to only spend *x* hours doing *y*. It had the added benefit of allowing me to *actually block off time for myself* and just enjoy life a little bit.
+2. **Exercise** -- although I've known this fact for a while now, this is the year I've really decided to actually apply it to my life. Feeling like garbage? Go for a run to feel more like garbage for a good hour before feeling better! I've had the privilege of being really close to nature so I get to enjoy the subtle crunching of leaves and brisk autumn air with each step.
+3. **Quality time with quality people** -- 2020 was not a kind year to most, myself included and I'm not going to pretend otherwise. However, the presence of a select few individuals in my life really helped to make the year slightly less of a dumpster fire. You know who you are :')
+
 ### Independent living
-Moved out from on-campus housing into my own place!
-loneliness during pandemic but i've learned to make do
-fill the silence with music, podcasts, or the occasional youtube rabbit hole
-cooking
+I finally moved out from on-campus housing into my own place! I've definitely felt tinges of loneliness during the pandemic but I've learned to fill the silence with music, podcasts, reading, or questionable arts and crafts. I've also somehow managed to get by the past few months without giving myself food poisoning in my transition from campus food to homecooked food!
+
+No fancy photos here but enjoy a few pictures of my workspace and the view from my balcony.
+
+![Home sweet 127.0.0.1](/img/home.png)*Home sweet 127.0.0.1*
 
 ## An imperfect retrospective
-It would be sort of naive to try to 
-Too much happened this year that I can fully reflect on
+It would be sort of naive to try to list out everything that went well/didn't go well this year. Too much happened this year that I can fully give each bit of my year the respect it deserves, so in the spirit of this 'almost' year, enjoy this 'almost' restrospective.
 
 ### Things that sparked joy
-  - surround yourself with people who care
-  - Heraclitus said, “No man steps in the same river twice.” The second time around, both man and river are different than they were before. The books are the same, but we change between reads. The world changes, too.
-  - exercise, nature, reading, art
+- **Surrounding myself with genuine people who care.**
+- **Picking up old hobbies and books** -- Heraclitus said, "No man steps in the same river twice." The second time around, both man and river are different than they were before. The paints and books are the same, but we change between reads and brushstrokes. The world changes, too. I've found it really rewarding to be able to pick up old hobbies like watercolour, crochetting, and reading and discover it for the second time.
+- **Exercising more and enjoying nature** -- not everday you get to read during sunset at the top of a peak with some of your closest friends.
 ### Things that didn't spark to joy
-  - learn to block out time better
-  - balance of intake/output
+- **Learning to block out time better** -- although I did improve on this, I've definitely told myself "ah, another few hours couldn't hurt" far too many times this year. I need to work on prioritizing my time more.
+- **Balancing intake and output** -- How does one balance learning/intake of information intake with processing and thinking about that information? This year felt like trying to drink information in through a firehose and spitting it right back out. I'm trying to work on better processes for choosing what information to explore more and to spend more time thinking and marinating thoughts. [Tweet.](https://twitter.com/_jzhao/status/1328399991950307328)
 
 ## Goal setting
-setting goals not to achieve a number but rather to continue a task
-- reversal theory -> means-ends domain
-  - telic action -> serious minded
-      - motivated by achievement/future goals
-      - e.g. reading to hit a goal
-      - means to an end
-  - paratelic action -> playful
-      - enjoyment of the process in the moment
-      - e.g. reading to actually read/learn
-      - the actual end
+When writing up the first few drafts for this post, I realized that just having goals that have cold hard numbers on them without any motivating reason feels very empty. I'm not setting these goals just to achieve some number, but rather to develop a habit or to just enjoy it. Had a conversation with [Emre](https://twitter.com/AlcaEmre) about this and he brought up Reversal Theory as a way to understand our motivationss and goals. In particular, one of the four domains of Reversal Theory is the means-ends domain.
+
+Motivations in this domain lie somewhere on the telic to paratelic action scale.
+
+**Telic Actions** are more serious in nature, motivated by wanting to achieve something or to accomplish to reach a goal. This would be like writing an essay to get a good mark. Most telic goals are a means to an end rather than the actual end themselves.
+
+**Paratelic Actions** are more playful in nature and involve enjoying the process in the moment. This is more akin to reading for enjoyment and for the pleasure of learning. Hopefully, these are the actual end goals that telic goals will help achieve. With that in mind, here are my 2021 goals.
 ### Paratelic Goals
 - Acknowledging privilege and use it to help those who are less fortunate
 - Have impact with my work, whether that be through writing, projects, or just conversations
 - Lead a more physically healthy lifestyle
-- Learn more about the woorld through a feedback loop of reading, writing, and talking to people
+- Learn more about the world through a feedback loop of reading, writing, and talking to people
 
 ### Telic Goals
 - Donate 5% of pre-tax income to charity
