@@ -112,3 +112,17 @@ strong {
 sup {
   line-height: 0
 }
+
+.scrollIndicator {
+  position: fixed;
+  top: 25vh;
+  left: 15vw;
+  height: 50vh;
+  width: 2px;
+  background-color: var(--gray);
+}
+
+.progress {
+  width: 2px;
+  background-color: var(--dark);
+}
