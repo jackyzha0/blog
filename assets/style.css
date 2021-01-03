@@ -78,6 +78,10 @@ footer {
   #contentWrapper {
     margin: 25px 5vw;
   }
+  
+  .scrollIndicator {
+    display: none;
+  }
 }
 
 @media all and (max-width: 600px) {
