@@ -67,6 +67,16 @@ footer {
   text-align: center;
 }
 
+hr {
+  width: 20%;
+  margin: 3em auto;
+  height: 2px;
+  border-radius: 1px;
+  border-width: 0;
+  color: var(--dark);
+  background-color: var(--dark);
+}
+
 .meta {
   margin-left: 2em !important;
 }
@@ -129,4 +139,29 @@ sup {
 .progress {
   width: 2px;
   background-color: var(--dark);
+}
+
+#newsletter {
+  margin: 2em 0;
+}
+
+#newsletter>input {
+  padding: 0.7em 1em;
+  border-radius: 4px;
+}
+
+#newsletter>input[type="submit"] {
+  border: none;
+  color: var(--light);
+  background-color: var(--dark);
+  cursor: pointer;
+}
+
+#newsletter>input[type="email"] {
+  background-color: var(--light);
+  border: 1px solid var(--gray);
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+  box-sizing: border-box;
 }

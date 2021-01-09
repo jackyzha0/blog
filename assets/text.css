@@ -32,6 +32,11 @@ p, tbody, li {
     line-height: 1.5em;
 }
 
+input {
+    font-family: Roboto;
+    color: var(--p);
+}
+
 h2 {
     opacity: 0.85;
 }

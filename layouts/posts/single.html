@@ -14,6 +14,15 @@
     <div id="mainText">
         {{- .Content -}}
     </div>
+
+    <hr>
+    <div>
+        <p>I'm always happy to have follow up conversations or hear your thoughts! Send me an email at <a href="mailto:j.zhao2k19@gmail.com">j.zhao2k19@gmail.com</a>. If you like this content and want to keep up to date with my latest ramblings and whatever else I've found interesting on the web, you should subscribe to my newsletter too.</p>
+
+        {{- partial "newsletter.html" . -}}
+
+        <a href="/">← (country roads) take me home</a>
+    </div>
 </article>
 <script>
     window.onscroll = () => {
