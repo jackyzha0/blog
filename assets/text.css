@@ -7,9 +7,17 @@ h1, h2, h3, h4, a, .time, ol, ul, thead {
 }
 
 a {
-  text-decoration: none;
-  color: var(--dark);
-  transition: all 0.2s ease;
+    text-decoration: none;
+    color: var(--dark);
+    transition: all 0.2s ease;
+}
+
+a:hover {
+    color: var(--secondary) !important;
+}
+
+.postLink:visited {
+    color: var(--visited);
 }
 
 #posts {

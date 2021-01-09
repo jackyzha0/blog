@@ -4,6 +4,7 @@
   --gray: #dddddd;
   --p: #606060;
   --dark: #284b63;
+  --visited: #afbfc9;
   --secondary: #84a59d;
 }
 
@@ -78,7 +79,6 @@ footer {
   #contentWrapper {
     margin: 25px 5vw;
   }
-  
   .scrollIndicator {
     display: none;
   }
