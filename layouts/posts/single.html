@@ -8,12 +8,6 @@
         <h3>Table of Contents</h3>
         {{ .TableOfContents }}
     </aside>
-    <div class="scrollIndicator">
-        <div class="progress" id="progressBar"></div>
-    </div>
-    <div class="sidebarTOC">
-        {{ .TableOfContents }}
-    </div>
     <div id="mainText">
         {{- .Content -}}
     </div>
@@ -23,12 +17,4 @@
         <a href="/">← (country roads) take me home</a>
     </div>
 </article>
-<script>
-    window.onscroll = () => {
-        const scrollAmt = document.body.scrollTop || document.documentElement.scrollTop
-        const height = document.documentElement.scrollHeight - document.documentElement.clientHeight
-        const scrolled = (scrollAmt / height) * 100
-        document.getElementById("progressBar").style.height = scrolled + "%"
-    }
-</script>
 {{ end }}
