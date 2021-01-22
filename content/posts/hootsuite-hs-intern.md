@@ -39,7 +39,9 @@ I was still working 8 hours a day, but somehow I felt energized and ready for mo
 
 I know that this has probably been repeated countless times already, but I cannot stress how important it is to make sure you’re taking enough time off to relax.
 
-## Don’t reject yourself before other people get the chance to
+## Rejection
+
+> Don’t reject yourself before other people get the chance to
 
 ![[December 27th, 1985](https://www.gocomics.com/calvinandhobbes/1985/12/27)](https://cdn-images-1.medium.com/max/2000/0*Psh-fqFgVeQegGay.jpg)*[December 27th, 1985](https://www.gocomics.com/calvinandhobbes/1985/12/27)*
 

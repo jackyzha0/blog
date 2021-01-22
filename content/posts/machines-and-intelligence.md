@@ -16,14 +16,14 @@ However, with the rise of Moore's Law and the insane amount of compute and data 
 
 This paper will examine factors that differentiate GOFAI and NFAI systems, such as their ability to adapt to changes in input, and the explainability of their outputs and internal representations. It will also examine current work in integrating the two approaches to Artificial Intelligence to create an artificial general intelligence.
 
-## GOFAI Systems
+### GOFAI Systems
 Since the inception of the term GOFAI, the basic idea has remained unchanged: thinking as internal symbol manipulation. Within these GOFAI systems, symbols are representative of aspects of our world. These symbols are manipulated in a systematic and logical matter, performing a series of deterministic steps that results in another sequence of symbols[^1].
 
 A very common example of GOFAI systems are expert systems, which are computer systems that emulate the decision making ability of a human expert[^3]. They solve problems via decision-tree reasoning, figuring out whether to perform certain actions based off of if-then rules.
 
 However, just being able to solve a problem shouldn't be sufficient for intelligence. So what qualifies it? At its core, GOFAI can be considered 'artificially intelligent' because of semantic interpretation. If the symbols represent aspects of our world, the result, which is also a symbol sequence, can be *translated* back into aspects of our world. This is called semantic interpretation, which "seeks to construe a body of symbols so that what they mean ('say') turns out to be consistently reasonable and sensible, given the situation"[^1]. 
 
-## NFAI Systems
+### NFAI Systems
 NFAI, on the other hand, is a diverse and still rapidly evolving set of systems and algorithms. It is more of a grab-bag term, roughly meaning any sort of scientific mind design that is not GOFAI[^1]. Under this umbrella are connectionist networks, which are networks composed of lots of simple units that are interconnected with various strengths. This paper will mostly focus on connectionism as a synecdoche for the greater umbrella of NFAI.
 
 Some classic examples of connectionist networks include convolutional neural networks (CNNs), which are a form of image classifiers[^4]. These networks operate by applying filters or kernels to an input between layers of the network. Each of those filters have their own set of strengths that will learn and evolve over time to identify certain 'features' from the input. Similar to cell assemblies in animal perceptual systems, these filters assemble more complex patterns using smaller and simpler patterns[^5].
@@ -54,14 +54,14 @@ One approach is to combine both into one system. This is used when there’s a r
 
 Another, less researched method, are interpretable connectionist systems. As traditional connectionist networks rely on the network state being the vehicle of representation, the complexity, depth, and scale of modern connectionist models means that it is becoming increasingly difficult for humans to interpret the output. The field of explainable AI (XAI) focuses on incentivizing connectionist networks to develop localist representations (i.e. moving away from having the vehicle of representation be at the network level, but at the unit level). Zhang, Wu, and Zhu of UCLA recently showed that it is possible to train a CNN to use 'interpretable filters', which encourage networks to group feature detectors into single filters, showing the possibility of moving from distributed representations to more local representations[^5].
 
-## What is AGI?
+### What is AGI?
 While intelligence can be understood in many ways, this paper will focus on examining the prospects of emulating or achieving the capacity to understand or learn anything a human can &mdash; the hallmark of an artificial general intelligence (AGI).
 
 Most commentators would agree that current AI systems fall short of implementing general intelligence[^4]. These are narrow AI systems, which are used to accomplish or solve specific tasks like the game of Go or language translation, rather than to attempt to create a system capable of AGI. So, what's stopping us from making the transition from domain-specific algorithms to domain-general algorithms?
 
 One problem that stumped earlier attempts at AGI was the *common-sense problem*: how do we represent common-sense information that is obvious to most humans in a way that is accessible to AI systems that use natural language? Unsurprisingly, the problem of storing all of this information was solved by the massive explosion in compute and data in the past few decades[^2]. However, the difficult part of this problem, choosing what subset of that huge information bank is relevant in any situation, remains a huge unsolved problem. How do we update our database of knowledge when relationships between symbols change? This is referred to as the frame problem.
 
-## Dissolving the frame problem
+### Dissolving the frame problem
 Dreyfus[^10] posits that any AI systems which attempt to tackle the frame problem through storing relevant frames are bound to failure. He argues that, "human beings do not simply store common-sense information," rather they "directly perceive and act upon significance in their environment". In his view, a more Heideggerian approach to AI will dissolve this problem.
 
 Heideggerian AI, in its most basic sense, is concerned with 
@@ -69,7 +69,7 @@ the Heideggerian concept of Dasein, which literally means 'Being-there'[^11]. Th
 
 Dreyfus believed that, for any AI system to achieve any sort of general intelligence, it must also exhibit Dasein. Thus, "a successful Heideggerian AI would need a perfect model of the human body – and by implication, that Dasein must be expressed as a human being, organically as well as existentially"[^10].
 
-## A non-humanistic approach
+### A non-humanistic approach
 However, Steed refutes Dreyfus' overly humanistic interpretation of Heideggerian AI, believing that a AI model only needs to be "embedded and embodied such that what AI experiences is significant for AI in the particular way that AI is," and thus intelligence would be possible by Heideggerian standards[^13].
 
 The refutation against a purely anthropocentric view of AI brings to light an important concept: the multiple realization argument. Emulating or copying human intelligence isn't the only way to achieve intelligence that rivals that of humans.

@@ -7,14 +7,14 @@ This blog post was originally intended to be a TED Talk given at TEDxRedmond but
 
 ---
 
-## Hey Google,
+## Hey Google
 Take a picture in 5 seconds. Say cheese!
 
 See that? This is just one of many examples of where AI is becoming a larger part of what we accept as normal. What seemed far-fetched and straight out of science fiction a few years ago is now becoming a reality. 
 
 Today, tech giants deploy AI to dictate what we see, hear, buy – even feel and think. They control what kind of news we see every morning, suggest places to go, and even drive our cars. In order for us to have a healthy relationship with this technology, we have to adapt as quickly as it is advancing. In doing so, we need to ask ourselves: what kind of decisions AI should be allowed to make?
 
-## What kind of decisions AI should be allowed to make?
+### What kind of decisions AI should be allowed to make?
 
 Sure, most of you in the audience may be comfortable letting an AI decide what kind of music to add to your Spotify playlist, but when an AI needs to decide what kind of jail time a criminal should face we all get a little squeamish.
 
@@ -34,7 +34,7 @@ How about the trolley problem? Should a self-driving car &mdash; given no other 
 
 As you can see, there is a really obvious difference each of those decisions that were proposed. In the tumour example and chihuahua example, you likely weren't super bothered if an AI were to make that decision. Yet for the hiring example and the self-driving car example, you likely were more uncertain.
 
-## Why the uncertainty?
+### Why the uncertainty?
 
 What we can see from this is that there is a difference between objective and subjective problems. In the tumour and chihuahua examples, we were mostly comfortable with that decision being made because there is a clear ‘right’ or ‘wrong.’ However, in the case of the hiring example and self-driving car example, the subjectivity makes it difficult. A lot of it has to do with what kind of environment we were raised in and how each of us sees the world. Everyone is born with some kind of bias, favouring certain ways of viewing the world.
 
@@ -70,14 +70,14 @@ Truth is, data lacks context. While the trends in the data may show that in the 
 
 We can take a look at the COMPAS system which is a piece of software used by U.S. courts to assess the likelihood of a criminal to reoffend. ProPublica, a non-profit newsroom, did an investigation back in 2016[^1] and claimed that COMPAS was biased against those of African descent &mdash; citing that it overestimated the false positive rate of reoffending for those of African descent by almost twice as high as those for Caucasians. ProPublica reasoned that a fair algorithm would not have such a big difference.
 
-## So, is COMPAS fair?
+### So, is COMPAS fair?
 Well, there’s no concrete answer.  The algorithm never had any access to any contextual information about the neighbourhoods or the actual situation for each of the offenses. Was the area more heavily policed because it was a predominantly black neighbourhood? Were the officers themselves biased in making arrests?
 
 Even more interestingly, a study done at Dartmouth[^2] showed that random volunteers, when given the same information as the COMPAS algorithm, achieved a nearly identical accuracy of identifying the rate of recidivism.
 
 This is interesting. This means that either COMPAS is accurate or holds the exact same biases as we do as a society. Unfortunately, this is a problem that I don’t think we can solve, so we don’t have a solid definition as to what makes an algorithm fair. But what is clear, is that there is bias in play here, whether that be through the police, the companies, the actual algorithm, or society itself. This bias is what causes that “subjectivity” and “garbage in.” This is what is preventing us from making ‘fairer’ AI and applying AI to more tasks.
 
-## The inevitability of bias
+### The inevitability of bias
 The point is, unless we work to prevent, catch, and deter bias, it will inevitably occur. One of the biggest problems in the field of AI is that so many of the models exist in a black box, meaning that its inner workings are only known by a select few. This makes it near impossible to identify and train out bias. Machine intelligence will become almost integral to our lives, becoming less visible in the process, and AI’s bias bug will get harder to beat. Our time to act is now.
 
 ## What we can do

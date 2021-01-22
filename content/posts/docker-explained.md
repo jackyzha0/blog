@@ -5,31 +5,7 @@ date: 2020-07-22T00:14:11-07:00
 
 Content from my own ['Docker Explained' repo](https://github.com/jackyzha0/docker-explained). Check out the repository for example code!
 
----
-
-Table of Contents
-=================
-
-   * [<g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji> Introduction](#-introduction)
-      * [What is Docker?](#what-is-docker)
-      * [What are containers?](#what-are-containers)
-      * [Why containers?](#why-containers)
-      * [Why Docker?](#why-docker)
-   * [<g-emoji class="g-emoji" alias="hammer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f528.png">🔨</g-emoji> Installing Docker](#-installing-docker)
-   * [<g-emoji class="g-emoji" alias="gear" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2699.png">⚙️</g-emoji> Parts of Docker](#️-parts-of-docker)
-      * [Docker Containers](#docker-containers)
-      * [Docker Image](#docker-image)
-         * [Layers](#layers)
-      * [Dockerfile](#dockerfile)
-      * [Docker CLI](#docker-cli)
-   * [<g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji> Docker Examples](#-docker-examples)
-   * [<g-emoji class="g-emoji" alias="books" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4da.png">📚</g-emoji> Further reading](#-further-reading)
-      * [Docker Compose](#docker-compose)
-      * [Kubernetes and Microservices](#kubernetes-and-microservices)
-      * [Deploying to the Cloud](#deploying-to-the-cloud)
-   * [Closing](#closing)
-
-## 👋 Introduction
+## Introduction
 ### What is Docker?
 Docker is a tool that makes it really easy to package applications into self-sustaining 'containers'.
 
@@ -42,10 +18,10 @@ Containerization means that everything to do with your application stays inside 
 ### Why Docker?
 Docker makes it super easy to work with these containers and, by proxy, you can get all the cool benefits of containers easily too! It also allows you to programmatically define a container through code, meaning you can collaborate and work on Docker containers just as you would with a regular piece of code through version control like `git`.
 
-## 🔨 Installing Docker
+## Installing Docker
 More detailed instructions can be found [here](https://docs.docker.com/get-docker/).
 
-## ⚙️ Parts of Docker
+## Parts of Docker
 ### Docker Containers
 I think the intro covered this pretty well so I'll repeat it again here.
 
@@ -121,12 +97,12 @@ You can get a list of currently running containers by doing `docker ps`, which w
 
 You can use the command `docker exec -it <container name> /bin/bash` to get a bash shell in the container, allowing you to run commands from within the container as if it was a full-fledged machine. If you know specifically what command you want to execute, you can use `docker exec -it <container name> <command>` to execute whatever command you specify in the container.
 
-## 📝 Docker Examples
+## Docker Examples
 1. [Basic Python app with dependencies](https://github.com/jackyzha0/docker-explained/tree/master/1-basic-python/)
 3. [Node.js and Express app](https://github.com/jackyzha0/docker-explained/tree/master/2-basic-node)
 4. [Multi-stage Go app](https://github.com/jackyzha0/docker-explained/tree/master/3-multi-stage-go)
 
-## 📚 Further reading
+## Further reading
 These topics will not be talked about within this repository, but I've added a few resources I've found helpful in my understanding of each of them.
 
 ### Docker Compose

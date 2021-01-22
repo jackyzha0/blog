@@ -2,14 +2,17 @@
 <article>
     <div id="postTitle" class="desc">
         <h1>{{ .Title }}</h1>
-        <p>written {{ .Date.Format "January 2, 2006" }} // {{ .WordCount }} words</p>
+        <p>written {{ .Date.Format "January 2, 2006" }} // {{ .ReadingTime }} min read</p>
     </div>
-    <aside>
+    <aside class="mainTOC">
         <h3>Table of Contents</h3>
         {{ .TableOfContents }}
     </aside>
     <div class="scrollIndicator">
         <div class="progress" id="progressBar"></div>
+    </div>
+    <div class="sidebarTOC">
+        {{ .TableOfContents }}
     </div>
     <div id="mainText">
         {{- .Content -}}
