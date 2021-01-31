@@ -46,7 +46,7 @@ h3 {
 }
 
 blockquote {
-    margin-left: 1em;
+    margin-left: 0em;
     border-left: 3px solid var(--secondary);
     padding-left: 1em;
 }

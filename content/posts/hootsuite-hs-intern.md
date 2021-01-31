@@ -1,5 +1,5 @@
 ---
-title: "Life of a High School SWE Intern at Hootsuite"
+title: "Interning at Hootsuite in highschool"
 date: 2019-08-30T08:51:56-07:00
 ---
 

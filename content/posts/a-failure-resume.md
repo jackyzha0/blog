@@ -15,8 +15,8 @@ Now with all that stuff out of the way, here's the juicy list you've been waitin
 
 ## 2020
 
-* Rejected from a undergraduate TA position for a CS course
-  * I really wanted to give TA-ing a shot, especially after hearing almost all friends' positive experiences with it so I decided to apply to TA a class I had done well in. It was a good reality check to realize that theres more to being a TA than just good grades and the title. Next time I apply, I'll find a course that I'm really passionate about and get to know the prof better.
+* Rejected from an undergraduate TA position for a CS course
+  * I really wanted to give TA-ing a shot, especially after hearing almost all friends' positive experiences with it, so I decided to apply to TA a class I had done well in. It was a good reality check to realize that there's more to being a TA than just good grades and the title. Next time I apply, I'll find a course that I'm really passionate about and get to know the prof better.
 
 * Didn't finish 3 of the projects I wanted to finish over the summer
   * I think I really just tried to commit to too many things this summer and spread myself really thin &mdash; I'm still working on learning how to say no!
