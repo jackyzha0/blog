@@ -2,14 +2,19 @@
     margin: 0.1em auto;
 }
 
-h1, h2, h3, h4, a, .time, ol, ul, thead {
+h1, h2, h3, h4, ol, ul, thead {
+    font-family: Source Sans Pro;
+}
+
+a, .time {
     font-family: Roboto Mono;
+    font-weight: 700;
+    text-decoration: none;
+    transition: all 0.2s ease;
 }
 
 a {
-    text-decoration: none;
     color: var(--dark);
-    transition: all 0.2s ease;
 }
 
 a:hover {
@@ -27,13 +32,13 @@ a:hover {
 }
 
 p, tbody, li {
-    font-family: Roboto;
+    font-family: Source Sans Pro;
     color: var(--p);
     line-height: 1.5em;
 }
 
 input {
-    font-family: Roboto;
+    font-family: Source Sans Pro;
     color: var(--p);
 }
 
@@ -64,4 +69,8 @@ table {
 
 td, th {
     padding: 0.1em 0.5em;
+}
+
+.footnotes p {
+    margin: 0.5em 0;
 }
