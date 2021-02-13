@@ -13,6 +13,13 @@ What I wanted to try with this failure resume is, rather than focusing on the in
 
 Now with all that stuff out of the way, here's the juicy list you've been waiting for:
 
+## 2021
+
+* Rejected from ZFellows after they reached out to 'learn more' about my idea
+
+* Rejected from the Y. P. Heung Foundation Award
+  * This scholarship is awarded to someone who demonstrates outstanding academic performance and is involved with community activities. I thought that, despite my slightly-above-average grades, I had a decent shot at this award given my involvement with the CS community at UBC but things didn't turn out the way I wanted. This award would've helped alleviate the financial stress that comes with having to pay tuition out-of-pocket, so I'll need to work a bit more for that money.
+
 ## 2020
 
 * Rejected from an undergraduate TA position for a CS course
@@ -27,7 +34,7 @@ Now with all that stuff out of the way, here's the juicy list you've been waitin
   * We took the shotgun approach by applying to as many grants as possible but ended up realizing that were just applying to grants for the sake of applying, rather than having a good reason for why. It was a really good catalyst to reflect (pun intended) on what we wanted reflect to be and what direction to take it in the future.
 
 * Rejected by DeepMind
-  * This position rejection hurt more than most &mdash; even if it was swift and abrupt. DeepMind is a company that has played a huge part in shaping my interest of the intersection of machine learning, ethics, and philosophy, so you can imagine that the rejection email was not a pleasant sight to see in my inbox. Nevertheless, this is just more incentive to keep working hard in this field and hopefully get a different result next year.
+  * This position rejection hurt more than most &mdash; even if it was swift and abrupt. DeepMind is a company that has played a huge part in shaping my interest of the intersection of machine learning, ethics, and philosophy, so you can imagine that the rejection email was not a pleasant sight to see in my inbox.
 
 ## 2019
 
