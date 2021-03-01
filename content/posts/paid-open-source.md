@@ -1,84 +1,68 @@
 ---
-title: "A case for paid Open Source"
+title: "A case for funding Open Source"
 date: 2021-02-27T12:03:33-08:00
 ---
 
+## Making of Open Source software
+I've just recently made my way through reading *Working in Public: The Making and Maintenance of Open Source Software* by Nadia Eghbal. Not only does it have some absolutely stunning cover art, it touches on a lot of thoughts that have been marinating in my head about the intersection of open source and funding. I've started experiencing the Baader-Meinhof effect and seeing something to do with open source and funding in a disproportionately large number of tweets, conversations, and blogs.
+
+This blog post is an exploration on some of my thoughts on the processes in open source, the value it provides, and if and how money should fit into the picture.
+
 ![Working in Public: The Making and Maintenance of Open Source Software](/img/oss_book.jpg)*Working in Public: The Making and Maintenance of Open Source Software*
 
-
-## Making of Open Source software
-Reading through Working in Public: The Making and Maintenance of Open Source Software
-so much emphasis on the making aspect but not a lot of emphasis on the maintenance aspect, glad this book touches on both
-
-open source developers write and publish their code in public. they enjoy months, maybe years, in the spotlight. but eventually, popularity offers diminishing returns. if the value of maintaining code fails to outpace the rewards, many of these developers quietly retreat to the shadows.
-
-some thoughts on processes in open source, the value it provides, and if and how money should fit into the picture.
-
 ### How it's made
-"Open source deveolpers were frequently characterized as 'hobby' developers, because the assumption was that only companies could make 'real' software."
+> "Open source developers were frequently characterized as 'hobby' developers, because the assumption was that only companies could make 'real' software."[^1]
 
-Two ways of thinking about how open source software is made
-1. Firms
+As it stands, there are two main schools of thoughts in thinking about how open source software is currently made.
 
-   firms are companies, orgs, any institution with centralized resources
-   only companies make software because, from a coordination standpoint, managing the resources required to pull off such a feat would be most efficiently handled within the same organization
+1. **Firms** are companies, organizations, governments, or any institution with centralized resources. The main argument is that only companies make software because, from a coordination standpoint, the most efficient way to manage the resources to effectively write software is centralized through one organization. Most development done this way is motivated extrinsically.
+   
+2. **Commons** is a more vague concept that is essentially the spirit of open source. In essence, it's a distributed group of developers that transcend employer affiliations which work on a resource that is used, owned, and governed by its own community. Most development done this way is motivated intrinsically.
 
-2. Commons
+Traditionally, software has been seen more as a product of firms: enterprise closed-source software of the likes of Windows, Chrome, Photoshop, etc. More recently, the rise of internet computing and collaboration tools like GitHub have decreased the barrier to entry enough that producing software through a commons is now feasible and very much alive.
 
-   distributed groups of developers that transcended employer affiliations
-
-   commons -> resource that is used, owned, and managed by a community
-   rely on self-governed rules
-
-"Commons-based peer production also explains why some developers hold the view that money and open source don't mix. If production runs on intrinsic motivation, money is an extrinsic motivator that is thought to interfere with an already well-coordinated system. Although the commons might not be as profitable as the firm, it's also more resilient, because the currency of its transactions is the desire to participate, rather than money."
+Surprisingly, this may also help to explain the why some developers view open source and money as completely separate. If the commons-based method of production is rooted in intrinsic motivation, then money, an extrinsic motivator, will be seen as opposite to core ideals that open source stands for.
 
 ## Creation vs Maintenance
-"Creation is an intrinsic motivator, maintenance usually requires extrinsic motivation"
--- @balupton, isaacs/github
+> "Creation is an intrinsic motivator, maintenance usually requires extrinsic motivation"
+>
+> @balupton, isaacs/github [#167](https://github.com/isaacs/github/issues/167)
 
-A project isn't 'done' after the creator pushes out an initial product.
+When an artist finishes a painting, or a runner finishes a marathon, that usually signifies the end of said responsibility. There is no such finish line for an open source project, even after pushing out an initial product.
 
-"We're so used to thinking of publication as signifying the end of a responsibility, as when a writer publishes a book, or a pianist finishes a performance. An open source maintainer, on the other hand, is expected to maintain the code they published for as long as people use it"
+Creating a project is fun. It's a wild exploration into a new idea, a frivolous journey to create something useful or to learn something new. With the recent rise of cloud platforms, the costs of distributing and sharing a project is almost completely nullified too due to the supply-side economies of scale. Just click a few buttons and your project is now readily available to any of the 4.66 billion people with internet access. For most developers, the process of creation and distribution is intrinsically motivated; it's an enjoyable process.
 
-"This is equivalent of a writer being asked to edit and make changes to the same book every day, into perpetuity, long after they've reaped the initial financial and reputational rewards from its creation. What's more, unlike other content, open source code is relied upon by people, companies, and other institutions that need it to keep working, long after the maintainer's interest has waned. External contributions don't necessarily reduce the burden of maintenance either, because they still require someone to review and merge them"
+Maintenance is less so. This is akin to a writer that's been asked to edit, revise, and make changes to the same book day in and day out, long after they've reaped the initial financial and reputational rewards from its creation. Even when the creator wants to drop the project and to work on something else, the pressure of the knowledge that hundreds of thousands of other organizations, companies, and projects rely on that code to keep running keeps the creators tightly shackled to the project. External help doesn't necessarily help either, requiring someone to onboard new contributors and time to review, and merge pull requests.
 
-"The problem is not quite that simple, code is nearly free to distribute, but maintenance can still be expensive. Although it's not immediately visible from the code itself, software does incur a hidden set of costs over time"
+Code may be nearly free to create and distribute, but maintenance is still expensive.
 
 ## Types of code
 ### Code as an artifact
-static state, could leave it untouched for 50 years and it would still look exactly the same
-other people can copy/download the code without costing the author anything
-could fork, but in doing so produce a different commodity
+There are two main ways we can look at code. The first of which is *static* code. Code that, if left untouched for a century, would still look exactly the same. Others can copy and download the code without incurring any additional costs to the author. For the maintainers, it should make no difference in regards to cost whether 10 or 10,000 people use it.
 
-"should make no difference to maintainers, from a cost perspective, whether 10 or 10,000 people use it"
-two reasons
-1. non-rivalry -> my ability to download code doesn't affect your ability to download code  (not exactly true, some marginal costs but will talk more on this later)
-2. non-excludability -> if someone has a copy of the code, it is hard to prevent them from sharing that code with others
+This type of code is a pool resource, it is
+1. **Non-rivalry.** My ability to copy the code doesn't affect your ability to copy it. (This isn't exactly true due to some minimal marginal costs but I'll discuss this later)
+2. **Non-exludable.** If someone has a copy of the code, it is very difficult to prevent them from sharing that code with others.
 
-code in this state is easy to share, copy, and distribute
+Any code that is in this state is easy to share, copy, and distribute. This is the type of code that lives dormant on Github, on StackOverflow answers, and in the GitHub's Arctic Vault[^2]. However, the main purpose of consuming code is not to simply read and study it, but to actually use it.
 
-the purpose of consuming code, in most cases, is not to simply read and study it, but to use it
-"open source code derives its value not from its static qualities but from its living ones"
+In doing so, we bring it to life.
+
 ### Code as an organism
-when that static code is inserted into their own software, that code comes to life
-it might break instantly, it might break their other code, and now they have to rewrite everything around it
-when software transitions from static to active state, it starts to incur a set of hidden costs
+> "Open source code derives its value not from its static qualities but from its living ones."[^1]
 
-code that runs in prod is in active state. it's a living organism, like a tree in a forest. it depends on other things, and other things depend on it to survive. hence, a software ecosystem.
+As soon as you hit CTRL-V on that snippet of code, as soon as that static code is inserted into your own, that code comes to life. It might cause a ridiculous amount of red squigglies to show up, break other code that used to be working fine, or force you to rewrite your previous code just to make it work. When code transitions from a resting static state to an active living state, it will start to incur a set of hidden costs.
+
+Like a living organism, it depends on other things and other things depend on it to survive. As a result, this software 'ecosystem' requires constant upkeep to ensure that components don't fall out of balance: dependency bumps, documentation updates, and infrastructure changes.
 
 ## Free as in speech, not free as in beer
-the term 'free' referred to what one could do with the software, rather than to its price
+'Free' software doesn't refer to its price. Infact, 'free' software is often extremely expensive. As Richard Stallman first described free software, it's "free as in speech, not free as in beer." The point Stallman was trying to make was that 'free' refers to what one could do with the software, rather than the price tag.
 
-but this only accounts for 'static' code
-maintenance costs make the difference between "forking as a credible threat" and "forking as a desirable outcome"
+In reality, code in its alive state is more like a free puppy. In the beginning, it's a great and wonderful thing! Super fun and super cute. As it grows and gets older, you realize "geez, it actually takes a lot of my own time to take care of this thing." Unlike a piece of inanimate furniture, bringing a living creature into one's home comes with bringing in a new set of responsibilities too.
 
-free as in puppy
-* wow its super fun! it's great!
-* as it grows and gets old, geez, theres a lot of time required for me to take care of this thing
-
-code behaves differently in active state
-buying a puppy is not like buying furniture, bringing a living creature into one's home signifies the beginning of a new set of responsibilities
 ### Latent cost of software
+There are two main types of hidden costs in software, one is marginal where costs increase per user, and the other is temporal where costs increase over time.
+
 two subtypes
 1. marginal costs
    physical infra -> hosting costs for code (mostly abstracted by third party platforms)
@@ -94,15 +78,6 @@ two subtypes
    refactoring, managing dependencies, etc.
 
    a building from 1850s that's had new rooms, plumbing, and electric wiring added piecemeal over the years
-
-* creation
-  frequently powered by intrinsic motivation -> "hey i wanna build something cool"
-  fixed "first-copy" costs
-* distribution
-  mostly powered by platforms used by creators (e.g. GitHub, GitLab)
-  low mostly because of supply-side economies of scale
-* maintenance
-  typically fall on creators, but not intrinsically motivated
   
 
 ## Funding Open Source
@@ -112,7 +87,7 @@ disconnect between work that is needed vs work that is intrinsically motivated
 
 same question, invest in people or projects
 
-#### Project
+### Project
 funding the project builds institutional memory and makes it easier to manage funds transparently, but funding individuals provides greater flexibility and avoids the centralized governance issues that seem so antithetical to open source
 
 project also tend to attract corporate funding better than individuals do, because companies are more comfortable with paying for code than for talent. in terms of value proposition, projects are attractive to corporate funders because they deliver commensurate benefits: code security and stability, influence, attracting hiring talent
@@ -122,7 +97,7 @@ brand affiliation
 more concentrated impact, easy to figure out what money is going towards
 easier to justify
 
-#### Individual
+### Individual
 power of independent creators
 from a governance perspective, funding individual developers is better aligned with the distributed nature of open source projects.
 e.g. twitch streamers
@@ -162,3 +137,6 @@ fund maintainers who already have the proper context to use it effectively
 ### Personal Experience
 contributing to bentoml
 maintenance
+
+[^1]: *Working in Public: The Making and Maintenance of Open Source Software* by [Nadia Eghbal](https://nadiaeghbal.com/)
+[^2]: [GitHub's Arctic Vault](https://archiveprogram.github.com/)
