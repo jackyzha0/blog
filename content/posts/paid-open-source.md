@@ -55,88 +55,63 @@ As soon as you hit CTRL-V on that snippet of code, as soon as that static code i
 
 Like a living organism, it depends on other things and other things depend on it to survive. As a result, this software 'ecosystem' requires constant upkeep to ensure that components don't fall out of balance: dependency bumps, documentation updates, and infrastructure changes.
 
-## Free as in speech, not free as in beer
+## Free as in speech, not as in beer
 'Free' software doesn't refer to its price. Infact, 'free' software is often extremely expensive. As Richard Stallman first described free software, it's "free as in speech, not free as in beer." The point Stallman was trying to make was that 'free' refers to what one could do with the software, rather than the price tag.
 
-In reality, code in its alive state is more like a free puppy. In the beginning, it's a great and wonderful thing! Super fun and super cute. As it grows and gets older, you realize "geez, it actually takes a lot of my own time to take care of this thing." Unlike a piece of inanimate furniture, bringing a living creature into one's home comes with bringing in a new set of responsibilities too.
+In reality, code in its alive state is more like a free puppy. In the beginning, it's a great and wonderful thing! Super fun and super cute. As it grows and gets older, you realize "geez, it actually takes a lot of my own time to take care of this thing." 
 
 ### Latent cost of software
-There are two main types of hidden costs in software, one is marginal where costs increase per user, and the other is temporal where costs increase over time.
+Unlike a piece of inanimate furniture, bringing a living creature into one's home comes with bringing in a new set of responsibilities too.
 
-two subtypes
-1. marginal costs
-   physical infra -> hosting costs for code (mostly abstracted by third party platforms)
-   user support costs -> if you have a billion users, 0.1% require support, 10min per issue, you would need 20,833 support people working 8 hours shifts each day on staff to keep up
-   like a traffic jam, everyone wants to drive their own car, but in doing so increases the congestion experiences by others and eventually, themselves
-2. temporal costs
-   technical debt -> entropy, costs are a function of entropy: the inevitable decay of systems over time
-   when code changes, all of the supporting knwoledge that surrounds it must be updated too
-   updated Q&A, documentation, tutorials, programming books, videos etc.
+**Marginal costs** mostly consist of costs that increase on a per-user basis. Some of this cost comes from physical infrastructure like code and infrastructure hosting. However, the majority of it comes from user support costs. Say you have a billion users and only 0.1% of them require support. If it takes you roughly 10 minutes to resolve each issue, you would still need 20,833 people working 8-hour shifts a day just to be able to keep up with the support volume. Maintainers are constantly wrestling with keeping their issue volume low and questions answered but at some point, it becomes a hindrance preventing them from working on the core product.
 
-   making choices that are easier today but that cost time and money to address later on
-   paying this off is almost never intrinsically motivated. it's not the 'fun' part of writing software
-   refactoring, managing dependencies, etc.
+**Temporal costs** are those which build up and compound over time. Most of it comes from technical debt, choices that are easier today at the expense of time and money in the future. This is the eternal battle against entropy: the inevitable decay of systems over time. When code changes, all the of the supporting knowledge that surrounds it must be updated too. Documentation, tutorials, programming books, videos and more slowly become obsolete.
 
-   a building from 1850s that's had new rooms, plumbing, and electric wiring added piecemeal over the years
-  
+Paying off these latent costs is almost never intrinsically motivated. When people talk about how fun making new projects is or contributing to open source, it's never in reference to writing documentation or refactoring code. This isn't the 'fun' part of writing software. This is the nasty upkeep that goes into maintaining a building from the 1850s that's had new rooms, plumbing, and electric wiring added over the years.
 
 ## Funding Open Source
-as a living organism, other things depend on it
-software is like infrastructure, its value is derived from its active dependencies, irrespective of the cost of its construction or maintenance
-disconnect between work that is needed vs work that is intrinsically motivated
+Despite how 'unfun' tackling the costs of free software is, it's still a necessary job. Nobody wants to use an open source project with out-of-date documentation and bad user support. In order to maintain a healthy ecosystem surrounding itself, it needs to find someway to incentivize these tasks. There is a jarring disconnect between work that is needed versus work that is intrinsically motivated. This is where I believe open source funding should play a role.
 
-same question, invest in people or projects
+### Funding projects
+One possibility is to fund projects directly. Going through this route builds a brand around the project. It's no longer a single person's personal project, but rather a tangible entity which has the brand recognition and reputation that comes with it. 
 
-### Project
-funding the project builds institutional memory and makes it easier to manage funds transparently, but funding individuals provides greater flexibility and avoids the centralized governance issues that seem so antithetical to open source
+Projects also tend to attract corporate/government funding much better than individuals can, mostly due to the fact that companies are more comfortable paying for code (a product) than for talent (a contract). Companies may also fund projects in the hopes of being affiliated with their brand. After Trivago sponsored webpack in 2017, they suddenly became one of the most desirable places to work for as a JS developer and subsequently attracted some great engineering talent.
 
-project also tend to attract corporate funding better than individuals do, because companies are more comfortable with paying for code than for talent. in terms of value proposition, projects are attractive to corporate funders because they deliver commensurate benefits: code security and stability, influence, attracting hiring talent
+For the average person looking to support, it's easier to justify funding a project as the impact is more concentrated, and it's easy to figure out what your money is going towards.
 
-brand affiliation
+### Funding individuals
+Funding individuals, on the other hand, provides greater flexibility and avoids the kerfuffle and centralized governance issues that are so antithetical to what open source stands for. Maintainers then don't need to deal with figuring out who should get paid how much in the project as each maintainer is responsible for securing their own funding (if even needed). From a governance perspective, funding individual developers is also better aligned with the distributed nature of open source projects too.
 
-more concentrated impact, easy to figure out what money is going towards
-easier to justify
+As the world's media is moving towards empowering independent creators through platforms like Twitch, YouTube, and TikTok, funding individuals is becoming an increasingly viable option. The way most of these creators make money is through *patronage* rather than donations. Although often conflated with donations, patronage is an interest and commitment to following a creator's *future* work based off of their current reputation.
 
-### Individual
-power of independent creators
-from a governance perspective, funding individual developers is better aligned with the distributed nature of open source projects.
-e.g. twitch streamers
+When you are funding an individual, you are paying for the regular delivery of well-defined value rather than singular one-time value.[^1] There are three key parts to this:
+1. **Paying.** This is an ongoing commitment to the production of content, not a one-off payment for one piece of content that catches the eye.
+2. **Regular Delivery.** It isn't random discovery, rather the content is delivered directly to the user via email or application.
+3. **Well-defined value.** It is clear what the money is going towards and what value it is helping provide.
 
-patronage
-often conflated with donations but rather its an interest in following a creator's *future* work based off of their current reputation
-
-its a repeatable thing
-a patron is paying for the regular delivery of well-defined value rather than singular one-time value
-
-3 key parts
-a) paying -> ongoing commitment to the production of content, not a one-off payment for one piece of content that catches the eye
-b) regular delivery -> not random discovery, delievered directly to the user via email or app
-c) well-defined value -> what they are paying for and why its worth it
+Funding individuals means trusting not just in the projects they are currently working on, but also that they will continue to deliver future value too. Rather than being shackled down to one project, creators then have the creative freedom to apply what they learned and create more groundbreaking projects. 
 
 ## Mixing money and open source
-Q: won't financial rewards adversely affect developer's incentives to contribute
-A: yes, but it depends on who you're funding
+> **Q:** Won't financial rewards adversely affect developer's incentives to contribute?
+> 
+> **A:** Yes, but it depends on who you're funding.
 
-two major stances
-"pay all maintainers!"
-"paying maintainers will destroy open source!"
+There are two main camps on funding open source projects. The first camp believes that we should pay all maintainers to keep their projects alive. The other camp believes that paying project maintainers will destroy the entire idea that is open source. Despite the two different views, there is a consensus that attention is the main currency of production.
 
-main concensus is that attention is the currency of production
-attention in this sense, is then a common pool resource: non-excludable (anyone can bid for their attention) and rivalrous (limited attention)
-by charging for access, it then becomes a private good: excludable and rivalrous. this can be done through paid support, patronage, and bounties
-by making attention excludable, the quality of contributions will increase as contributors and users compete for the attention of producers
+Attention, then, is a common pool resource. It is non-excludable (anyone can bid for their attention) and rivalrous (limited attention). But, by charging for access, it then becomes a private good: excludable and rivalrous. The main belief that a private good is better than a common pool resource is that by making attention excludable, the quality of contributions will increase as contributors and users compete for the attention of producers.
 
-shouldn't fund casual contributors
-these people already incur a marginal cost on maintainers -> they need to review and decide whether to merge it or not
-also the reason why initiatives like Hacktoberfest don't work (that's a rant for another day)
+I stand somewhere in between the two camps. I'm a big proponent of "if it ain't broke, don't fix it." There are already a lot of competing motivations, both intrinsic and extrinsic, that powers open source today. We shouldn't touch the parts that are currently working. Rather, we should focus on funding places that are absent from other sorts of motivation like software maintenance and upkeep.
 
-fund maintainers who already have the proper context to use it effectively
+### Personal experience
+I first started on BentoML[^3] as a casual contributor last summer, submitting a few decently sized PRs. It was almost all intrinsically motivated; I found issues that I enjoyed working on and that I knew I would learn lots from. Satisfied with my experience, I decided to join the team as a paid contractor this year expecting to just continue the type of work I was doing in the summer. I slowly realized started to realize just how much extra work being a maintainer meant and why it was a paid position. Making proposals, triaging issues, adding tests, and writing documentation took up the majority of my time. While I recognized it was important work, it was not work I was intrinsically motivated to do.
 
-"There is a lot of motivation, both intrinsic and extrinsic, that already powers open source work; we shouldn't disturb the parts that are currently working. Instead, funding can become a useful motivator in places that are absent in any other sort of motivation, such as the later stages of software maintenance."
+## Conclusion
+There is an abundance of open source projects and casual contributors as it stands today. With the ever lowering barrier to entry, these will only become more abundant. Casual contributors already incur a marginal cost on maintainers, their contributions need review in order to decide whether it's okay to merge or not. Adding more extrinsic motivation will just exacerbate this existing problem. This is the same reason why initiatives like Hacktoberfest, which promises to give a free t-shirt to anyone who makes a few pull requests, are counterproductive to the entirety of open source.
 
-### Personal Experience
-contributing to bentoml
-maintenance
+What *isn't* significantly increasing are the number of maintainers responsible for maintaining the existing projects we have today. We should be funding maintainers who already have the contextual knowledge to be able to effectively tackle issues and guide the project. Funding will be a nice extrinsic motivator in order to make sure that the difficult work that needs to be done, gets done.
+
+This is not, by any means, an all-encompassing post about funding in open source. This post was a window into some of my thoughts on open source and a lot of it is inspired by Eghbal's book.
 
 [^1]: *Working in Public: The Making and Maintenance of Open Source Software* by [Nadia Eghbal](https://nadiaeghbal.com/)
 [^2]: [GitHub's Arctic Vault](https://archiveprogram.github.com/)
+[^3]: [BentoML](https://github.com/bentoml/BentoML)
