@@ -63,14 +63,14 @@ export async function getServerSideProps(ctx) {
 }
 
 const Raw = ({error, data}) => {
-  return <>
+  return <div>
     {/* Only load title/description metadata if no error */}
     {!error && <NextHead data={data} />}
     <RawText>
       {/* Just render the content if it exists, otherwise render the errror */}
       {data?.content || error}
     </RawText>
-  </>
+  </div>
 }
 
 export default Raw
@@ -107,10 +107,10 @@ export default class StyledDocument extends Document {
       return {
         ...initialProps,
         styles: (
-          <>
+          <div>
             {initialProps.styles}
             {sheet.getStyleElement()}
-          </>
+          </div>
         ),
       }
     } finally {
