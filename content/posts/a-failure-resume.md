@@ -15,8 +15,11 @@ Now with all that stuff out of the way, here's the juicy list you've been waitin
 
 ## 2021
 
-* Rejected from ZFellows after they reached out to 'learn more' about my idea
+* Rejected from the Delta Fellowship
+  * 
 
+* Rejected from ZFellows after they reached out to 'learn more' about my idea
+  
 * Rejected from the Y. P. Heung Foundation Award
   * This scholarship is awarded to someone who demonstrates outstanding academic performance and is involved with community activities. I thought that, despite my slightly-above-average grades, I had a decent shot at this award given my involvement with the CS community at UBC but things didn't turn out the way I wanted. This award would've helped alleviate the financial stress that comes with having to pay tuition out-of-pocket, so I'll need to work a bit more for that money.
 

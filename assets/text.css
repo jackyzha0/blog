@@ -63,6 +63,14 @@ pre {
     overflow-x: scroll;
 }
 
+code {
+    font-family: Roboto Mono;
+    font-size: 0.85em;
+    padding: 0.15em 0.3em;
+    border-radius: 5px;
+    background: var(--lightgray);
+}
+
 table {
     padding: 1.5em;
 }

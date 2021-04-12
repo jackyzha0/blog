@@ -15,6 +15,21 @@ what i know for sure:
 * i love communities that lift each other up and inspire each other
 
 
+David Holz
+aesthetics -> values -> goals 
+
+## aesthetic
+helping pick out things from the library of babel
+make it possible for others to do x
+
+## values
+endlessly curious
+kindness and empathy
+
+
+## goals
+
+
 ## how can we build support systems and communities for the next generation of builders?
 * software infra and tooling
 * lowering barrier of entry
