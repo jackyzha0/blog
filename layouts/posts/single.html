@@ -13,6 +13,17 @@
     </div>
 
     <div>
+        <hr>
+        <div class="morePosts">
+            {{ if .NextPage }}
+            <a class="postLink" href="{{ .NextPage.Permalink }}?ref=footer">← {{ .NextPage.Title }}</a>
+            {{ end }}
+
+            {{ if .PrevPage }}
+            <a class="postLink next" href="{{ .PrevPage.Permalink }}?ref=footer">{{ .PrevPage.Title }} →</a>
+            {{ end }}
+        </div>
+
         {{- partial "newsletter.html" . -}}
         <a href="/">← (country roads) take me home</a>
     </div>

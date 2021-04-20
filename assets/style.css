@@ -148,3 +148,15 @@ sup {
   -ms-box-sizing: border-box;
   box-sizing: border-box;
 }
+
+.morePosts {
+  min-height: 3em;
+}
+
+.postLink {
+  display: inline-block;
+}
+
+.postLink.next {
+  float: right;
+}

@@ -4,7 +4,7 @@
     <li class="singlePost">
         <div class="desc">
             <p class="time">{{ .Date.Format .Site.Params.dateFormat }}&nbsp;//&nbsp;</p>
-            <p><a class="postLink" href="{{ .Permalink }}">
+            <p><a class="postLink" href="{{ .Permalink }}?ref=home">
                     {{- .Title -}}
                 </a></p>
         </div>
