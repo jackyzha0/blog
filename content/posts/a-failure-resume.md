@@ -11,12 +11,13 @@ I've recently been inspired by both Kate Huang[^2] and Joice Tang's[^3] failure 
 
 What I wanted to try with this failure resume is, rather than focusing on the individual failures themselves, note what I learned about each of them and how each one was necessary. Hopefully, it'll serve as a powerful reminder to myself of how much I've struggled to get to where I am and why I deserve to be here. And more importantly, it serves as a place to reflect and learn from your past mistakes and be less scared of failure in the future.
 
+*A 2021 update:* Keeping a failure resume has let me be so much more ambitious in trying new things and applying for things I would otherwise think I'm unqualified to apply for! I'm really glad I started this.
+
 Now with all that stuff out of the way, here's the juicy list you've been waiting for:
 
 ## 2021
 
 * Rejected from the Delta Fellowship
-  * 
 
 * Rejected from ZFellows after they reached out to 'learn more' about my idea
   

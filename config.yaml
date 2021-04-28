@@ -11,3 +11,16 @@ params:
     email: j.zhao2k19@gmail.com
     author: jacky
     dateFormat: 2006-01-02
+
+markup:
+    highlight:
+        anchorLineNos: false
+        codeFences: true
+        guessSyntax: true
+        hl_Lines: ""
+        lineAnchors: ""
+        lineNoStart: 1
+        lineNos: true
+        lineNumbersInTable: true
+        style: "dracula"
+        tabWidth: 4
