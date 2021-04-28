@@ -85,6 +85,8 @@
     font-family: 'Fira Code' !important;
     font-size: 0.85em;
     line-height: 1em;
+    background: none;
+    padding: 0;
 }
 
 .chroma {

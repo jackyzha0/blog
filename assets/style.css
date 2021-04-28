@@ -30,6 +30,22 @@
   bottom: 0px;
 }
 
+#TableOfContents ol {
+  counter-reset: li;
+  margin-left: 0em;
+  padding-left: 1.5em;
+}
+
+#TableOfContents li {
+  counter-increment: li;
+}
+
+#TableOfContents li::marker {
+  font-family: Roboto Mono;
+  content: counter(li) " ";
+  font-weight: 700;
+}
+
 header, .singlePost, #postTitle {
   display: flex;
   flex-direction: row;

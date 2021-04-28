@@ -13,6 +13,10 @@ params:
     dateFormat: 2006-01-02
 
 markup:
+    tableOfContents:
+        endLevel: 3
+        ordered: true
+        startLevel: 2
     highlight:
         anchorLineNos: false
         codeFences: true

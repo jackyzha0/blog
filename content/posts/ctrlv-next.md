@@ -28,6 +28,7 @@ In **Server Side Rendering (SSR)**, the server is responsible for rendering the 
 On the very other end of the spectrum, **Static Site Generation (SSG)**, means that the server does all of the page rendering at *build time* rather than on each request. This has all the same benefits as SSR but doesn't really make a lot of sense for this project as I don't have a full list of pages I need to render handy.
 
 **A hybrid approach**
+
 However, Next.js doesn't force you to choose between the two. It actually prides itself in just how easy they make it to switch between them. Here's the approach I decided to take for ctrl-v. 
 
 In the old frontend, everything was completely client-side rendered. My 'productionized' application was quite literally an `index.html` with a bunch of JS bundles. It sucked as whenever I sent a ctrl-v link to a friend, there wouldn't be a preview about what the content was and most people were scared to just open a random link like that (rightfully so). There was also a not-very-pleasant 'loading paste...' period before any content actually appeared on the screen.

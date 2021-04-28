@@ -63,7 +63,7 @@ pre {
     overflow-x: scroll;
 }
 
-p > code {
+code {
     font-family: 'Fira Code';
     font-size: 0.85em;
     padding: 0.15em 0.3em;
@@ -81,4 +81,12 @@ td, th {
 
 .footnotes p {
     margin: 0.5em 0;
+}
+
+article a {
+    font-family: Source Sans Pro;
+    font-weight: 600;
+    text-decoration: underline;
+    text-decoration-color: var(--secondary);
+    text-decoration-thickness: .15em;
 }
