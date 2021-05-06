@@ -40,9 +40,9 @@
   counter-increment: section;
 }
 
-#TableOfContents ol > li::marker {
-  font-family: Roboto Mono;
-  content: counter(section) " ";
+#TableOfContents ol > li::marker, #TableOfContents ol > li > ol > li::marker {
+  font-family: Source Sans Pro;
+  content: counter(section) "  ";
   font-weight: 700;
 }
 
@@ -55,9 +55,7 @@
 }
 
 #TableOfContents ol > li > ol > li::marker {
-    font-family: Roboto Mono;
-    content: counter(section) "." counter(subsection) " ";
-    font-weight: 700;
+    content: counter(section) "." counter(subsection) "  ";
 }
 
 
@@ -66,6 +64,10 @@ header, .singlePost, #postTitle {
   flex-direction: row;
   align-items: center;
   justify-content: space-between;
+}
+
+nav > a {
+  margin-left: 2em;
 }
 
 #postTitle h1 {
