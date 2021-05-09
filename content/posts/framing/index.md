@@ -1,9 +1,12 @@
 ---
-title: "Framing and Digital Permanence"
+title: "Framing and Context Collapse"
 date: 2021-05-08T14:57:51-07:00
+draft: true
 ---
 
 ![Abstract illustration of a blob framed by two picture frames](images/title.png)
+
+Two bits I've been thinking about a lot (and briefly touched on in issue [#3](https://buttondown.email/jacky/archive/spider-man-neurons-hearing-fractals-and-fulfilment) and [#4](https://buttondown.email/jacky/archive/sun-sneezing-infrastructure-moderation-and-why) of my newsletter) are framing and context collapse 
 
 ## What's in the frame
 https://www.youtube.com/watch?v=ZRZuEGuU_es
@@ -23,77 +26,46 @@ If all we ever see are other people’s frames, how do we remind ourselves of wh
 
 Acknowledge that this isn't the complete picture -> there is a frame
 
+## Context Separation
 ![Abstract illustration of a blob framed by two picture frames](images/context-separation.png)
 
-## Digital Permanence
-episode #172 - ryan schiller: librex and the free exchange of ideas on college campuses 
+A big reason we behave differently in different situations is because Behaviour Breeds Behaviour. This means a couple of things. Firstly, if you do something once, it’s easy to do it again. If you smoke once, it’s easy to smoke again. If you fast once, it is easy to fast again. Secondly, if you do something with a person once, it is easy to repeat that behaviour with that person again. If you tell someone a secret and build trust once, you are likely to share more with that person.
 
-silencing of ideas
-people go to colleges not to just read textbooks
-but to talk to professors who've studied it deeply and get their opinions on it
-but what happens when those professors feel like their can't express their opinions?
-what happens when a student is offended by that opinion and the professor is at risk of losing their job?
+Finally, your behaviour could influence the behaviour of the people around you and vice versa. For example, if you hang out with a group of fitness enthusiasts, your own alignment towards fitness is likely to increase. ([alignment](/posts/collaborative-thinking))
 
-## cancel culture and healthy debate
-i think being inclusive and mindful of the opinions is really important
-but there also needs to be a balance between the weight of creating an unsafe place for ideas vs unsafe places for people
-
-where we're trying to communicate in ways that allows for difficult conversations and also at the same time doesn't result in the silencing of voices
-
-"don't make sweeping statements against core identity groups"
-core identity groups -> race, religion, sex, gender, nationality, etc.
-
-should ideas be treated as separate from the people who proposed them?
-logically, ideas should be evaluated from the merit of the idea itself
-yet, there are cases when other contextual information is important
-* e.g., when talking about diversity issues, talking from first-hand exp is often a lot more valid than second-hand or third-hand
-* in these cases, does methodology and original source of speaker count as *part* of the idea?
-
-"The word “axiom” means self evident truth. All of mathematics are models based on frameworks of axioms and postulates. We develop proofs and theorems from these. All facts and axioms in mathematics are fundamentally flawed. Take a look at Gödel's incompleteness theorem. It basically states that if math is consistent, it cannot be complete. And if it is not complete, it must not be consistent."
-
-are ideas inherently different from facts?
-what are the universal axioms of the universe?
-descartes
-* solipsism -> we can only know that we exist
-
-
-anonymity
-
-"61% of students on Ivy League campuses are afraid to speak their minds because of campus culture"
-
-difference between public and private selves
-* friedman chooses to minimize this difference as much as possible
-* extra mental effort to separate the two, need to remember what parts of yourself to portray to what people
-
-
-i think for me from an engineering perspective like if i'm dishonest with others i will too quickly become dishonest with myself and in so doing i will not truly be able to think deeply about the world and come up and build revolutionary ideas there's something about honesty that feels like it's that first principles thinking
-
-* being scared to be completely vulnerable and honest
-
-* changing frame of life
-  people change over time, yet the internet doesn't feel super accepting of these changes
-  your opinions 10 years ago can still be critiqued as if you hold them today
-  should normalize growth
-  if people STILL hold views that are problematic by today's standards, then THAT's problematic
-  
-  move towards realtime media rather than offline media (e.g. streaming > videos)
-
-A theorem is only a fact in the context of the axioms on which it is based. Axioms are treated more like postulates, accepted only tentatively and defining a branch of mathematics.
-All facts and axioms in mathematics are fundamentally flawed. Take a look at Gödel's incompleteness theorem. It basically states that if math is consistent, it cannot be complete. And if it is not complete, it must not be consistent.
-The uncertainty principle governs what we can call facts in all systems. Including mathematics.
-It more or less says that you can only explain a system using criteria defined in that system.
+For example, even as children, we tailor our responses to situations and incidents based on the behaviour of people around us, just like adults do. I’m sure you’ve seen a toddler running around and playing with his parents. If he suddenly topples over and is not really hurt, he looks around for people’s reactions. If his mother comes running towards him expressing shock and anxiety, the kid starts to cry. If she continues to play the game and brushes the “fall” aside like nothing happened, the kid moves on with life.
 
 ## Context Collapse
 ![Abstract illustration of a blob framed by two picture frames](images/context-collapse.png)
 
+But when this number goes into the thousands, how do you choose to behave across all these seemingly different environments?
+
+"when your different friend groups are meeting and you need to combine the different personalities you maintain around them"
+
 https://www.rewire.org/context-collapse-online/
 
 i think this is super interesting because i see all social media presences are flavors of the "authentic self"
-so if you have someone on all of them the common denominator is who they are (limitd=ed but true0
+so if you have someone on all of them the common denominator is who they are (limited but true
 and the same goes for seeing the same person in different social contexts
-what are they like with family, friends, in competiiont
+what are they like with family, friends, in competition
 using that as a guiding point for getting to know people is nice
 
 hmm, maybe not different flavours but different 'frames' or subsets of the same person
 
 i dont think they change themselves, just selectively choose which parts of themselves to show/express
+
+Our interpersonal relationships can be impacted by what we decide to share on social media
+why privacy is so important
+
+LinkedIn -> why this seems so foreign and we shit on it
+the context is so painfully obvious and has very little overlap with the rest of our 
+
+https://www.rewire.org/context-collapse-online/
+
+first like on a post determines who the algorithm shows the post too
+reinforcing the type of people who are likely to view your content
+
+The "lowest common denominator” strategy, or only making posts that you're comfortable with anybody seeing, staying away from anything controversial or overly personal.
+“Social syphentation,” or migrating your conversation to a place where you have a smaller audience, like a group text, Instagram DMs or Snapchat, where the context and audience are clear.
+People are also avoiding context collapse by turning to more ephemeral mediums, like Instagram stories and Snapchat. These posts don’t stick around, so you can share without as much worry about the consequences.
+Finstas, private content -> selective group of people
