@@ -1,22 +1,23 @@
 ---
-title: "Framing and Honesty"
-date: 2021-03-30T14:57:51-07:00
-draft: true
+title: "Framing and Digital Permanence"
+date: 2021-05-08T14:57:51-07:00
 ---
 
-## what's in the frame
+![Abstract illustration of a blob framed by two picture frames](/img/frame_header.png)
+
+## What's in the frame
 In which Hank talks about the metaphorical ‘frame’, or the context in which people present themselves. People choose to present themselves a certain way in front of others and in doing so, leave a lot of what’s actually going on outside the frame. If all we ever see are other people’s frames, how do we remind ourselves of what’s going on outside of it and normalize being ‘out-of-frame’?
 
 https://www.youtube.com/watch?v=ZRZuEGuU_es
 
-## honesty online
+## Digital Permanence
 episode #172 - ryan schiller: librex and the free exchange of ideas on college campuses 
 * changing frame of life
 * how do we present ourselves to each other?
 * being scared to be completely vulnerable and honest
 * internet and accepting change
 
-## context collapse
+## Context Collapse
 https://www.rewire.org/context-collapse-online/
 
 i think this is super interesting because i see all social media presences are flavors of the "authentic self"
