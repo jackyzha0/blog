@@ -3,7 +3,7 @@ title: "Rewriting ctrl-v using Next.js"
 date: 2021-04-11T16:55:12-07:00
 ---
 
-![Rewriting ctrl-v using Next.js](/img/ctrl-v-title.png)
+![Rewriting ctrl-v using Next.js](images/title.png)
 
 Ever since I released [ctrl-v](https://github.com/jackyzha0/ctrl-v/), friends from HackClub have kept bugging me about switching my current React code over to use Next.js. I wanted to see what all the fuss was about, so I finally set aside some time this weekend to rewrite the frontend using Next.js and deployed it on Vercel instead of Firebase Hosting. I thought it would take the whole weekend, but I managed to go from zero knowledge about Next.js to a fully finished refactor in just under 6 hours!
 
@@ -33,7 +33,7 @@ However, Next.js doesn't force you to choose between the two. It actually prides
 
 In the old frontend, everything was completely client-side rendered. My 'productionized' application was quite literally an `index.html` with a bunch of JS bundles. It sucked as whenever I sent a ctrl-v link to a friend, there wouldn't be a preview about what the content was and most people were scared to just open a random link like that (rightfully so). There was also a not-very-pleasant 'loading paste...' period before any content actually appeared on the screen.
 
-![Old vs new approaches to rendering content](/img/ctrl-v-rendering.png)
+![Old vs new approaches to rendering content](images/rendering.png)
 
 I realized that there were only really two main types of pages
 1. View Paste (`/:paste`)
@@ -208,7 +208,7 @@ All in all, trading 6 hours for such a huge quality-of-life improvement on a pro
 * Smoother user experience (no more annoying 'loading paste...' messages)
 * Cleaner codebase
 * Better link previews (sending links to friends )
-  ![img.png](/img/ctrl-v-link.png)
+  ![img.png](images/link.png)
   
 If you haven't had the chance to try Next.js out for yourself and you've made it this far, you owe it to yourself to at least give it a shot. Thanks to the HackClub community (specifically [Rishi](https://rishi.cx/), [Safin](https://safin.dev/), and [Ani](https://anirudhb.github.io/)) for their constant encouragement and criticism of my 'outdated' tech stack.
 

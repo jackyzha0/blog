@@ -3,7 +3,7 @@ title: "Framing and Digital Permanence"
 date: 2021-05-08T14:57:51-07:00
 ---
 
-![Abstract illustration of a blob framed by two picture frames](/img/frame_header.png)
+![Abstract illustration of a blob framed by two picture frames](images/title.png)
 
 ## What's in the frame
 In which Hank talks about the metaphorical ‘frame’, or the context in which people present themselves. People choose to present themselves a certain way in front of others and in doing so, leave a lot of what’s actually going on outside the frame. If all we ever see are other people’s frames, how do we remind ourselves of what’s going on outside of it and normalize being ‘out-of-frame’?
