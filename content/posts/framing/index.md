@@ -1,7 +1,6 @@
 ---
 title: "Framing and Context Collapse"
 date: 2021-05-08T14:57:51-07:00
-draft: true
 ---
 
 ![Abstract illustration of a blob framed by two picture frames](images/title.png)
@@ -12,8 +11,7 @@ Two bits I've been thinking about a lot (and briefly touched on in issue [#3](ht
 https://www.youtube.com/watch?v=ZRZuEGuU_es
 In which Hank talks about the metaphorical ‘frame’, or the context in which people present themselves. People choose to present themselves a certain way in front of others and in doing so, leave a lot of what’s actually going on outside the frame. 
 
-Media influencers, <> shape 
-In doing so, we think this sculpted normal is how people normally live their lives. Not protraying the whole story.
+Influencers shape what we view as normal through these picturesque and perfect lifestyles they portray. In doing so, we think this sculpted normal is how people normally live their lives. Not protraying the whole story -- the off-days, hours of work put into making that perfect photo or 15s video possible.
 
 "I mean of course the central trick of the social internet, is that whenever you make something, you choose what’s inside the frame, but as viewers the rest of us can’t help but believe what’s inside the frame, because it’s literally all we can see"
 
@@ -24,10 +22,12 @@ Once you share something, you can't unshare it, internet feels intractable
 
 If all we ever see are other people’s frames, how do we remind ourselves of what’s going on outside of it and normalize being ‘out-of-frame’?
 
-Acknowledge that this isn't the complete picture -> there is a frame
+there is a frame. People act differently in different situations and that's ok! But we should acknowledge that this isn't the complete picture.
 
 ## Context Separation
 ![Abstract illustration of a blob framed by two picture frames](images/context-separation.png)
+
+Why do humans tend to act differently in different environments?
 
 A big reason we behave differently in different situations is because Behaviour Breeds Behaviour. This means a couple of things. Firstly, if you do something once, it’s easy to do it again. If you smoke once, it’s easy to smoke again. If you fast once, it is easy to fast again. Secondly, if you do something with a person once, it is easy to repeat that behaviour with that person again. If you tell someone a secret and build trust once, you are likely to share more with that person.
 
@@ -49,6 +49,8 @@ so if you have someone on all of them the common denominator is who they are (li
 and the same goes for seeing the same person in different social contexts
 what are they like with family, friends, in competition
 using that as a guiding point for getting to know people is nice
+
+doing things "in public" (https://www.swyx.io/learn-in-public/)
 
 hmm, maybe not different flavours but different 'frames' or subsets of the same person
 
