@@ -4,6 +4,8 @@ date: 2021-05-09T17:39:37-04:00
 draft: true
 ---
 
+Once you share something, you can't unshare it, internet feels intractable
+
 episode #172 - ryan schiller: librex and the free exchange of ideas on college campuses
 
 silencing of ideas

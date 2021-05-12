@@ -22,3 +22,8 @@ Are labels helpful in
 In a data-driven world, can we and should we try to quantize everything? What about inherently human qualities like emotions or personality?
 
 some metrics that are inherently v difficult to quantize (e.g. quality of engagement) and others that are more easy to quantize and thus optimize for (like engagement)
+
+https://outline.com/5H8EEy
+No matter how much data we collect, two people who look the same to the algorithm can always end up making different choices.
+
+We gave you two definitions of fairness: keep the error rates comparable between groups, and treat people with the same risk scores in the same way. Both of these definitions are totally defensible! But satisfying both at the same time is impossible.
