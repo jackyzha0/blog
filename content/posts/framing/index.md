@@ -5,11 +5,11 @@ date: 2021-05-08T14:57:51-07:00
 
 ![Abstract illustration of a blob framed by two picture frames](images/title.png)
 
-Other than the obvious, there are reasons for why you wouldn't want your professional LinkedIn network to find out about your Twitter shitposts.
+The content I throw on Twitter is not something I would readily post on LinkedIn. I also wouldn't post LinkedIn-style business content to my Facebook timeline. To an extent, my social presence across these platforms is *incongruent*. The core tenet is that different apps curate different types of communities and thus social contexts. As a result, we try to separate these contexts in the best way we know how to: by acting differently, **and that's ok.** 
 
-**People want to act differently in different environments, and that's ok.** It is not 'inconsistent' for us to want to frame ourselves differently on Twitter than on Facebook, and in fact, a lot of key aspects of human behaviour point to why we default to doing so.
+It is not 'inconsistent' for us to want to frame ourselves differently on Twitter than on Facebook, and in fact, a lot of key aspects of human behaviour point to why we default to doing so.
 
-The problem comes when these spaces start bleeding into each other, and the boundaries between the different audiences on each of them start amalgamating. The *overlap* in target audience between these spaces then becomes very large and all of these different social [contexts 'collapse'](https://www.rewire.org/context-collapse-online/) and it becomes increasingly difficult to maintain these separate personalities.
+The problem comes when these spaces start bleeding into each other, and the boundaries between the different audiences on each of them start amalgamating. The *overlap* in target audience between these spaces then becomes very large and all of these different social contexts ['collapse'](https://www.rewire.org/context-collapse-online/) and it becomes increasingly difficult to maintain these separate personalities.
 
 ## What's (not) in the frame
 In this [vlogbrothers video from March](https://www.youtube.com/watch?v=ZRZuEGuU_es), John Green talks about the metaphorical frame in which people present themselves. We tailor and adjust our behaviour depending on the environment we're in, or the audience we find ourselves in front of. However, in doing so, we inadvertently portray an incomplete picture – we frame only the parts we want them to see.
@@ -20,7 +20,7 @@ An unfortunate side effect of this is that it starts setting expectations for th
 
 If we're expected to keep growing as people, these thoughts and opinions will obviously change over time. So why does it feel so *weird*, for both the audience and ourselves, to deviate from these set identities that we've become used to portraying in certain scenarios?
 
-## Context Separation
+## Context separation
 ![Abstract illustration of a blob framed by two picture frames](images/context-separation.png)
 
 In order to answer that question, let us make a brief foray into the realm of psychology. Why do humans tend to act differently in different environments? I think three key aspects of behaviour play a role here:
@@ -48,16 +48,16 @@ Even as children, when we get hurt, we look to authority figures around us to se
 Our ability to 'frame' ourselves different depending on the social situation likely stemmed from this behaviour too.
 
 
-## Context Collapse
+## Why context collapse is bad
 ![Abstract illustration of a blob framed by two picture frames](images/context-collapse.png)
 
-The content I throw on Twitter is not something I would readily post on LinkedIn. I also wouldn't post LinkedIn-style business content to my Facebook timeline. To an extent, my social presence across these platforms is *incongruent*. The core tenet is that different apps curate different types of communities and thus social contexts. As a result, we try to separate these contexts in the best way we know how to: by acting differently.
+
 
 When experiencing context collapse, talking to your audience beyond a surface level becomes very difficult. Smaller groups, by nature, have more commonalities to relate to, whether that be interests, music taste, place of study, or lived experiences. These groups provide the chance for individuals to have intimate conversations and exercise different facets of themselves that they otherwise wouldn't get the chance to. A queer person may be out to a close group of friends but not to their family; a budding writer can have a safe place to explore potential ideas without alienating the rest of their friend group.
 
 When we experience context collapse, these social groups and audiences become massive, and the amount of overlap in interests or values of the collective group is miniscule. How are you supposed to have any sort of meaningful connection when the only thing you share in common on the platform is that you ‘know’ each other?
 
-## Centrifuging Contexts
+## Centrifuging contexts
 I’ve noticed three main strategies individuals, companies, and platforms have adopted in trying to tackle context collapse.
 
 1. **Lowest Common Denominator**. Only making posts that anybody will be able to understand and relate to, staying away from controversial or overly personal topics. This approach places an emphasis on quantity of impressions over quality of impressions.
