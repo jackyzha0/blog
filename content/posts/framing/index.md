@@ -76,3 +76,5 @@ On these larger social media apps where I'm 'connected' to hundreds of people, I
 Because we're so actively a part of all of these different contexts, we are forced to be excessively general on these platforms to try to cater to everyone. We should have platforms where it's ok to engage with different elements of who you are. We have different groups of friends to cater to different aspects of who we are, so why should social media platforms be any different?
 
 Different social contexts call for different social behaviours, and that's ok.
+
+*Special thanks to Anson, Ivan, Joss, Jasmine, Kat, and Anh for helping read over and edit this piece.*
