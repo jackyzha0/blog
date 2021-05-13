@@ -77,4 +77,4 @@ Because we're so actively a part of all of these different contexts, we are forc
 
 Different social contexts call for different social behaviours, and that's ok.
 
-*Special thanks to Anson, Ivan, Joss, Jasmine, Kat, and Anh for helping read over and edit this piece.*
+*Special thanks to Anson, Ivan, Rishi, Joss, Jasmine, Kat, and Anh for helping read over and edit this piece! Wouldn't be possible without y'all :)*
