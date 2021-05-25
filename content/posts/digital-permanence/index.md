@@ -62,3 +62,10 @@ A theorem is only a fact in the context of the axioms on which it is based. Axio
 All facts and axioms in mathematics are fundamentally flawed. Take a look at Gödel's incompleteness theorem. It basically states that if math is consistent, it cannot be complete. And if it is not complete, it must not be consistent.
 The uncertainty principle governs what we can call facts in all systems. Including mathematics.
 It more or less says that you can only explain a system using criteria defined in that system.
+
+Seeing Like A State
+He lays out how administrative states come up with a sort of "bureaucratic imagination" of how the world works by defining how to measure and count stuff.
+
+Mindstorms
+* why we shouldn't straight up label answers as wrong
+* concept of microworlds as a stepping stone to exploring and getting the right answer
