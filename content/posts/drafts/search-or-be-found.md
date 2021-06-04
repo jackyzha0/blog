@@ -1,6 +1,7 @@
 ---
 title: "Search or be found"
 date: 2021-05-23T21:46:46-04:00
+draft: true
 ---
 
 the search box versus the feed
