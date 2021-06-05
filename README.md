@@ -1,5 +1,8 @@
 ![github pages](https://github.com/jackyzha0/blog/workflows/github%20pages/badge.svg)
 
+# ARCHIVED
+blog has been merged into main website https://github.com/jackyzha0/jackyzha0.github.io
+
 # ✨ blog
 ### mildly coherent rambling
 Built on top of Hugo.
